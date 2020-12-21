@@ -32,4 +32,5 @@ jobs:
 #           publish_dir: ./public
 
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          PUBLISH_BRANCH: gh-pages
           publish_dir: ./public
