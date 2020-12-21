@@ -99,8 +99,6 @@ uglyURLs = false
     email = "komeijiren3030@gmail.com"
     # Motto or introduction
     motto = "Viva La Vida"
-    # Avatar
-    avatar = "/icons/apple-touch-icon.png"
     # Personal website, default: baseURL
     website = "https://komeijiren.github.io/"
     # Twitter
@@ -597,7 +595,7 @@ uglyURLs = false
     ######################################
     # KaTeX (chemical equation supported)
 
-    enableKaTeX = false
+    enableKaTeX = true
     # Note: *global settings*
     #       `katex` in post’s Front Matter
     #       has a higher priority than here
