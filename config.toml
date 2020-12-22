@@ -229,6 +229,10 @@ uglyURLs = false
         weight = 8
         identifier = "search"
         post = "search"
+    [[menu.socials]]
+        weight = 8
+        identifier = "twitter"
+        post = "twitter.com/Komeiji_Ren"
 
 
 
@@ -336,7 +340,7 @@ uglyURLs = false
     siteLogo = "/icons/apple-touch-icon.png"
     # Note: used for JSON-LD, Open Graph
 
-    siteDescription = "MemE is a powerful and highly customizable GoHugo theme for personal blogs."
+    siteDescription = "窓の外の数学"
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
@@ -344,7 +348,7 @@ uglyURLs = false
     # ATTENTION: keep this format, change
     #            the number
 
-    siteTwitter = "reuixiy"
+    siteTwitter = "Komeiji_Ren"
     # Note: used for Twitter Cards
 
 
