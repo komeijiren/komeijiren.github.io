@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>古明地蓮の数学小説</title><link>https://example.com/</link><description>窓の外の数学</description><generator>Hugo 0.76.5 https://gohugo.io/</generator><language>en</language><managingEditor>komeijiren3030@gmail.com (古明地 蓮)</managingEditor><webMaster>komeijiren3030@gmail.com (古明地 蓮)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Tue, 22 Dec 2020 13:20:39 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://example.com/rss.xml"/><item><title>プロローグ</title><link>https://example.com/posts/%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/</link><guid isPermaLink="true">https://example.com/posts/%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/</guid><pubDate>Tue, 22 Dec 2020 22:11:36 +0900</pubDate><author>komeijiren3030@gmail.com (古明地 蓮)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description>&lt;p>桜舞う小道の下。&lt;/p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>古明地蓮の数学小説</title><link>https://example.com/</link><description>窓の外の数学</description><generator>Hugo 0.76.5 https://gohugo.io/</generator><language>en</language><managingEditor>komeijiren3030@gmail.com (古明地 蓮)</managingEditor><webMaster>komeijiren3030@gmail.com (古明地 蓮)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Tue, 22 Dec 2020 13:24:27 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://example.com/rss.xml"/><item><title>始まりが大切</title><link>https://example.com/posts/%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%8C%E5%A4%A7%E5%88%87/</link><guid isPermaLink="true">https://example.com/posts/%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%8C%E5%A4%A7%E5%88%87/</guid><pubDate>Tue, 22 Dec 2020 22:21:36 +0900</pubDate><author>komeijiren3030@gmail.com (古明地 蓮)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description>&lt;p>　私はただ一人しかいないゼミ室で淡々と数学をやっている。安直にやっていると書いてしまったけど、これを表す言葉っていうのは、なかなか見つからないんだ。勉強しているかといえば、嘘ではないような気もするけれど、学校で教えてもらうようなものとは違う。それに、研究と言ってしまうと、もういなくなってしまった先輩がやっていたようなスマートなものを思い浮かべてしまうから、それも当てはまらなくなってしまう。だから、数学をやっているとしか言えないんだ。&lt;/p>
+&lt;p>　気が付いたら、この部活には人がいなくなってしまった。私が入ってすぐのころから、確かに人が少なくなっていたのは知っていた。なにせ、私が入ったその時には、すでに先輩以外の部員は一人としていなくなってしまっていたらしい。しかし、先輩が言うには、こんな風になってしまったのは最近の事らしい。先輩曰く&lt;/p>
+&lt;p>「昔は全生徒入部が原則だったから、どこの部活にも入れなかった人がここに集まってきていたんだ。でも、僕が二年生になるときにその制度がなくなってしまって、それを機に皆抜けてしまったんだ。」&lt;/p>
+&lt;p>　とか。まあ、この日本という空間を眺めてみても、その中から無作為抽出してみたとしても、数学好きはそんなにいないと思う。だから、部員が少なくなってしまうのはしたないとは思う。でも、まさか本当に誰もいなくなってしまうんなんて思ってもいなかった。先輩がいる間は、先輩が、私が卒業するまでいるんじゃないかって錯覚していたから、こうやって一人になることなんて考えもしなかったんだ。まあ、人がいようといまいと私の数学には変わりはないんだけれど。&lt;/p>
+&lt;p>　先輩がここを出ていく前に、私に言い残した課題がいくらか置いてある。今はその問題を読みながら、どれが一番手を付けやすそうか、答えへの道が分かりやすいのはないかと探してみている。まあ、アメリカの大学に数学を研究するために留学してしまった先輩が置いていった問題なんだ。私がそう簡単に解ける問題なんて言うのはほとんどないのは知っている。だから、最初だけでもできるものを探しているんだけれど&amp;hellip;&amp;hellip;&lt;/p>
+&lt;p>　これなんてどうだろうか。&lt;/p>
+&lt;p>「オイラーの公式を導け」&lt;/p>
+&lt;p>　先輩らしい、端的かつ意味は分かるのにその先へ進むのが難しい問題だ。それでも今はこれをやるのが一番早い気がする。&lt;/p>
+&lt;p>　そうと決まれば、私は早速A5サイズの少し小さめなノートに文字を書き始めた。$e^{i\theta}=cos(\theta)+isin(\theta)$
+　求めたい数式だけは知っている。でも、それの導き方はよく知らない。だから、まずは$e^{i\theta}$を、どうにかしなきゃいけないんだろうなぁ。見た限り、複素平面上の単位円になるのは間違いないし&amp;hellip;。&lt;/p>
+&lt;p>　取り敢えず文字で置いてみたり、指数法則などを使って、強引に展開してみたり、無限級数を使って、求めたい数式を先に出してみたりした結果、一応答えを出すことには成功した。これで、明日の本番の準備ができた。&lt;/p>
+&lt;p>　明日というのは、新入生歓迎会のことである。各々が部活について発表して、それを聞いて新入生が部活を決めるという集会のようなものだ。まあ、これで新入生も決定っていうわけではないんだけれども、最初の掴みがないとやってきてくれないのは明白だ。だから、どうにかして人を呼び込むためにも、格好いい数式を書いて発表しようともくろんでいたんだ。きっとこれで数学好きがやってきてくれるんじゃないかな。少なくとも、過去の私は先輩がやっていた同じようなことを見てここにやってきたんだ。同じような人がいたとしてもおかしくはないだろう。そう願って、私は明日の歓迎会の台本を書き始めるのだった。&lt;/p>
+&lt;p>　新入生歓迎会の直後の部活動の時間。他の人たちは外で部員の大々的な募集を描けている部活もあれば、運動部などは特に練習をすでに開始している団体もある。その中に交じって、自分の興味を持った部活に新郵政たちは吸われていく。その動きは、どうにも数式とかには対応させられないような、自由な動きを取っている。ただ一つ、数学研究同好会だけは避けているようだけれど。&lt;/p>
+&lt;p>　自分では、あの新入生歓迎の発表はかなりいいものだったと思っている。でも、実際に誰も来ていないんだから、盛大に失敗してしまったんだろうか。内容としては面白い物をやった気がするし、説明もあんまり長くなく難しくなくでまとめた気がする。そして、最後にここに引き寄せるための言葉も付け加えたから、自分に似た人は来ると思っていたんだけどなぁ。結局いつも通り一人で数学をやっている。&lt;/p>
+&lt;p>　桜のにおいが舞うこの部屋の外から、つい最近まで雪が降っていたことを思い起こさせる冷えた空気が、対流を起こしながら入ってくる。だから、この部屋には外の香りが混じっていて、どこか部屋の外に立っているように感じさせる。&lt;/p>
+&lt;p>　一人詩を吟じながら、窓の外を眺めていると、いつ以来だろうか、この部屋の戸がノックされた。もしかしたらと扉の向こうにいる人に胸を躍らせながら応答した。&lt;/p>
+&lt;p>「何の用ですか？」&lt;/p>
+&lt;p>　そういうと、すこしだけ扉と壁に隙間ができたかと思うと、まだ中学を卒業してすぐだというように、すこし幼さを残した声が部屋の香りを不用意に震わせた。&lt;/p>
+&lt;p>「数学研究同好会の活動場所で合っていますか？」&lt;/p>
+&lt;p>　という声が聞こえた。あの人こそ私が求めていた人だと。そうして相手を怖がらせないように、優しくなでるような声で告げた。&lt;/p>
+&lt;p>「そうだよ。入部希望者の人かな？」&lt;/p>
+&lt;p>　すると、恐る恐るという言葉が最も似合うような動きで、縮こまった少年が&lt;/p>
+&lt;p>「失礼します」&lt;/p>
+&lt;p>　と言ってこの部屋に入ってきた。そうして、私の顔を見るや否や、私に視線を向けて頼み込むかのように言った。&lt;/p>
+&lt;p>「僕にオイラーの公式を教えてください。」&lt;/p>
+&lt;p>その言葉を聞いて、私はいつぞやの私を思い出してすこしくすっと笑うと、彼に視線を合わせながら言ってあげた。&lt;/p>
+&lt;p>「私に任せて。」&lt;/p>
+&lt;p>と。&lt;/p></description><category domain="https://example.com/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/">オイラーの公式</category></item><item><title>プロローグ</title><link>https://example.com/posts/%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/</link><guid isPermaLink="true">https://example.com/posts/%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/</guid><pubDate>Tue, 22 Dec 2020 22:11:36 +0900</pubDate><author>komeijiren3030@gmail.com (古明地 蓮)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description>&lt;p>桜舞う小道の下。&lt;/p>
 &lt;p>「本当に先輩は行ってしまうんですか？」&lt;/p>
 &lt;p>　涙ながらに私は先輩の裾をつかみながら訴えかけた。でも、先輩はただ黙って、私と同じように泣きながらいうのだった。&lt;/p>
 &lt;p>「僕が僕であるために、僕はもう巣を離れるんだ。もしかしたらまたいつか会えるかもしれないから、その日を待つことにしようよ」&lt;/p>
