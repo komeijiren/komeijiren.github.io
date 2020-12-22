@@ -5,7 +5,7 @@ baseURL = "https://example.com/"
 title = "古明地蓮の数学小説"
 languageCode = "en"
 hasCJKLanguage = false
-googleAnalytics = "UA-162479993-1"
+googleAnalytics = "UA-162479993-2"
 # Copyright information (Markdown supported)
 copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
 
