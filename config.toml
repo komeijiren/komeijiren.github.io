@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://example.com/posts/"
+baseURL = "https://example.com/"
 title = "古明地蓮の数学小説"
 languageCode = "en"
 hasCJKLanguage = false
