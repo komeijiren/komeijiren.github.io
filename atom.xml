@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><title type="text">古明地蓮の数学小説</title><subtitle type="html">窓の外の数学</subtitle><updated>2020-12-23T13:38:38+00:00</updated><id>https://example.com/</id><link rel="alternate" type="text/html" href="https://example.com/"/><link rel="self" type="application/atom+xml" href="https://example.com/atom.xml"/><author><name>古明地 蓮</name><uri>https://example.com/</uri><email>komeijiren3030@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><generator uri="https://gohugo.io/" version="0.76.5">Hugo</generator><entry><title type="text">爆発する指数</title><link rel="alternate" type="text/html" href="https://example.com/posts/%E7%88%86%E7%99%BA%E3%81%99%E3%82%8B%E6%8C%87%E6%95%B0/"/><id>https://example.com/posts/%E7%88%86%E7%99%BA%E3%81%99%E3%82%8B%E6%8C%87%E6%95%B0/</id><updated>2020-12-23T13:38:36+00:00</updated><published>2020-12-22T22:23:13+09:00</published><author><name>古明地 蓮</name><uri>https://komeijiren.github.io/</uri><email>komeijiren3030@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">ホワイトボードを背にして、彼の方を向きながら解説モードの私は彼に問う。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><title type="text">古明地蓮の数学小説</title><subtitle type="html">窓の外の数学</subtitle><updated>2020-12-23T13:42:10+00:00</updated><id>https://example.com/</id><link rel="alternate" type="text/html" href="https://example.com/"/><link rel="self" type="application/atom+xml" href="https://example.com/atom.xml"/><author><name>古明地 蓮</name><uri>https://example.com/</uri><email>komeijiren3030@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><generator uri="https://gohugo.io/" version="0.76.5">Hugo</generator><entry><title type="text">爆発する指数</title><link rel="alternate" type="text/html" href="https://example.com/posts/%E7%88%86%E7%99%BA%E3%81%99%E3%82%8B%E6%8C%87%E6%95%B0/"/><id>https://example.com/posts/%E7%88%86%E7%99%BA%E3%81%99%E3%82%8B%E6%8C%87%E6%95%B0/</id><updated>2020-12-23T13:42:07+00:00</updated><published>2020-12-22T22:23:13+09:00</published><author><name>古明地 蓮</name><uri>https://komeijiren.github.io/</uri><email>komeijiren3030@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">ホワイトボードを背にして、彼の方を向きながら解説モードの私は彼に問う。
 「この中でも、今日は指数について勉強しようか。指数っていうのがどの部分かはわかるよね？」
 　彼は、特に引っかかることもなく答えてくれた。
 　「$e^{i\theta}$の部分かな。」
@@ -6,7 +6,7 @@
 「中学校だと、指数ってなんて習う？」
 「かける個数って習いました。だから、$i\theta$乗っていうのが良く分からないんです。」
 　こうやって自分が予想してた通りの返答してくれると、かなり話がはかどるから助かる。とはいっても、ここからどうやって話をつなげていこうかな。まあ、やっぱり具体例から詰めていくのが定石だと思うから、適当な例を作っちゃおうか。じゃあ、わかりやすそうな礼を一つ作ろうかな。
-$2^3=8$ $2^2=4$ $2^1=2$
+$$2^3=8$$ $$2^2=4$$ $$2^1=2$$
 　っていう風に、下に行くにつれて指数が減っていく、自然数しか指数のところにいない2の例をホワイトボードに書いた。そうして、**君の方を向いて尋ねた。
 「これは2で適当な例を作ったんだけど、上から下に行くとき、つまり指数が一つ減るごとに何分の一になっている？」
 　これは、自分で聞いてても思うけど、あきれるほど簡単な誘導質問だと思う。でも、ある意味これが数学における大切な部分の一つでもあるんだから、大事なワンステップだと思って踏ませてあげることにしよう。
@@ -19,11 +19,11 @@ $2^0=?$
 　すると、彼は困惑した表情を浮かべながら、半ば騙されたことに気が付いた表情をして
 「2の半分で1ってことですか？」
 　と、質問に質問で返してきた。完全にこっちも詐欺をやっているような感覚だから、あんまりいい気持ちはしないんだけれど、最初はこれで&amp;quot;知る&amp;quot;事が大切なんだと思う。知ってから、理解する、最後に使えるようにしていくことが重要なステップだ。
-$2^0=1$
+$$2^0=1$$
 　とさっきの式を書き直すと、彼の方を向いて教えるように言った。
 「これで$2^0=1$になるねって言っても正直訳が分からないでしょ。だって、指数は自然数しか乗らないと思っていて、その時の法則を勝手に当てはめてもいいのかわからないよね。だから、ここからは指数っていうものを違うとらえ方をしていくために、法則を作っていくね。」
 　と言った。そう、指数についてはここからが本番なんだ。さっきまでのは&amp;quot;知る&amp;quot;っていう範囲の中でも最も浅いものだ。ここから先を理解するためにも、これを学ばない手はないという大切なもの。さっきまで書いていた具体例を消して、指数法則の二つを書いた。
-指数法則 $a^1=a$ $a^s\times a^t=a^{s+t}$</summary><content type="html">&lt;p>ホワイトボードを背にして、彼の方を向きながら解説モードの私は彼に問う。&lt;/p>
+指数法則 $$a^1=a$$ $$a^s\times a^t=a^{s+t}$$</summary><content type="html">&lt;p>ホワイトボードを背にして、彼の方を向きながら解説モードの私は彼に問う。&lt;/p>
 &lt;p>「この中でも、今日は指数について勉強しようか。指数っていうのがどの部分かはわかるよね？」&lt;/p>
 &lt;p>　彼は、特に引っかかることもなく答えてくれた。&lt;/p>
 &lt;p>　
@@ -32,9 +32,9 @@ $2^0=1$
 &lt;p>「中学校だと、指数ってなんて習う？」&lt;/p>
 &lt;p>「かける個数って習いました。だから、$i\theta$乗っていうのが良く分からないんです。」&lt;/p>
 &lt;p>　こうやって自分が予想してた通りの返答してくれると、かなり話がはかどるから助かる。とはいっても、ここからどうやって話をつなげていこうかな。まあ、やっぱり具体例から詰めていくのが定石だと思うから、適当な例を作っちゃおうか。じゃあ、わかりやすそうな礼を一つ作ろうかな。&lt;/p>
-&lt;p>$2^3=8$
-$2^2=4$
-$2^1=2$&lt;/p>
+&lt;p>$$2^3=8$$
+$$2^2=4$$
+$$2^1=2$$&lt;/p>
 &lt;p>　っていう風に、下に行くにつれて指数が減っていく、自然数しか指数のところにいない2の例をホワイトボードに書いた。そうして、**君の方を向いて尋ねた。&lt;/p>
 &lt;p>「これは2で適当な例を作ったんだけど、上から下に行くとき、つまり指数が一つ減るごとに何分の一になっている？」&lt;/p>
 &lt;p>　これは、自分で聞いてても思うけど、あきれるほど簡単な誘導質問だと思う。でも、ある意味これが数学における大切な部分の一つでもあるんだから、大事なワンステップだと思って踏ませてあげることにしよう。&lt;/p>
@@ -47,13 +47,13 @@ $2^1=2$&lt;/p>
 &lt;p>　すると、彼は困惑した表情を浮かべながら、半ば騙されたことに気が付いた表情をして&lt;/p>
 &lt;p>「2の半分で1ってことですか？」&lt;/p>
 &lt;p>　と、質問に質問で返してきた。完全にこっちも詐欺をやっているような感覚だから、あんまりいい気持ちはしないんだけれど、最初はこれで&amp;quot;知る&amp;quot;事が大切なんだと思う。知ってから、理解する、最後に使えるようにしていくことが重要なステップだ。&lt;/p>
-&lt;p>$2^0=1$&lt;/p>
+&lt;p>$$2^0=1$$&lt;/p>
 &lt;p>　とさっきの式を書き直すと、彼の方を向いて教えるように言った。&lt;/p>
 &lt;p>「これで$2^0=1$になるねって言っても正直訳が分からないでしょ。だって、指数は自然数しか乗らないと思っていて、その時の法則を勝手に当てはめてもいいのかわからないよね。だから、ここからは指数っていうものを違うとらえ方をしていくために、法則を作っていくね。」&lt;/p>
 &lt;p>　と言った。そう、指数についてはここからが本番なんだ。さっきまでのは&amp;quot;知る&amp;quot;っていう範囲の中でも最も浅いものだ。ここから先を理解するためにも、これを学ばない手はないという大切なもの。さっきまで書いていた具体例を消して、指数法則の二つを書いた。&lt;/p>
 &lt;p>指数法則
-$a^1=a$
-$a^s\times a^t=a^{s+t}$&lt;/p>
+$$a^1=a$$
+$$a^s\times a^t=a^{s+t}$$&lt;/p>
 &lt;p>「これが指数法則っていう『指数が満たすべき法則』だよ。つまり、指数であればこの法則にのっとっているんだ。」&lt;/p>
 &lt;p>　この言葉でどれだけ伝わっただろうか。正直、こんな不親切な言葉一つ二つですべて理解できる人だったら、すごいなって思う。でも、そうじゃないことを象徴するように、彼の顔はあからさまに困惑していた。そして、自分が理解できないのが恥ずかしいかのように小さな声で言った。&lt;/p>
 &lt;p>「これが何を意味しているのかが分かりません&amp;hellip;」&lt;/p>
@@ -61,23 +61,23 @@ $a^s\times a^t=a^{s+t}$&lt;/p>
 &lt;p>　真っ暗な部屋に宝石を隠したって、光がないから輝かないんだ。だから、自分の目で光らせられるように、まずは場所を知らなきゃいけない。これはかつて先輩が言っていた言葉だけど、数学を理解して行くのに、とても大切なことだと思っている。宝石を磨くためにも、まずは宝石の輝きと場所を教えなきゃね。&lt;/p>
 &lt;p>「最初は分からなくて当然だと思うよ。それを教えるためにも私がここにいるんだからね。じゃあ、また適当な例から始めようか。」&lt;/p>
 &lt;p>　というと、ホワイトボードに数式を書き足していく。&lt;/p>
-&lt;p>$2^2\times 2^3$&lt;/p>
+&lt;p>$$2^2\times 2^3$$&lt;/p>
 &lt;p>　取り敢えずこの部分だけで式を止めておく。そうして、彼の方を向いて、また誘導的な質問をする。&lt;/p>
 &lt;p>「この式の答えは分かるよね？」&lt;/p>
 &lt;p>　すると、やっぱり彼はそれは当たり前だと言わんばかりの顔をして、&lt;/p>
 &lt;p>「32ですよね」&lt;/p>
 &lt;p>　と答える。まだ橋がかかりきっていない様子がすごくもどかしい感じがする。もうちょっとで全部がつながるのが分かるからこそ、あの子の世界をつなげたくなってしまう。&lt;/p>
 &lt;p>　さっき描いた式に、さらに新しい式を重ねていく。それは、世界に新しい色を書き足していくような感覚だ。&lt;/p>
-&lt;p>$(2^1\space \times2^1)\space \times(2^1\space \times2^1\space \times2^1)$
-$2\space \times2\space \times2\space \times2\space \times2=32$&lt;/p>
+&lt;p>$$(2^1\space \times2^1)\space \times(2^1\space \times2^1\space \times2^1)$$
+$$2\space \times2\space \times2\space \times2\space \times2=32$$&lt;/p>
 &lt;p>　この式を書いた瞬間、彼の顔に光が見えた。まさに輝くっていう言葉が最大限に合いそうな顔をしていたと思う。これまで彼が感覚的に使っていたものが、たった今一気につながり、そうして彼を新しい世界へと導いているんだ。これが数学の楽しみであり、私が数学を好いている一つの理由でもある。
 　
 　今の例を簡単に言えば、指数法則を使って指数を分解したとでもいうのかな。指数法則の時に書いた二つ目の式を使って全て1乗に分解した後、2の1乗が2であることを用いて答えをだした。普段私たちが感覚でやってしまっていることを厳密化していくっていうのは、案外気が付かない簡単な法則が見え隠れしていることもあるんだ。&lt;/p>
 &lt;p>　彼は、何度も顔を上げて私に何かを言おうとしてから、また考え名をしてを数回した後、こういった。&lt;/p>
 &lt;p>「じゃあ、0乗っていうのを定義しようとするなら、
-$2^1\times2^0$
-$= 2^{1+0} = 2^1$
-$2^1=2 \space \rightarrow 2^0 = 1$
+$$2^1\times2^0$$
+$$= 2^{1+0} = 2^1$$
+$$2^1=2 \space \rightarrow 2^0 = 1$$
 ていう風に考えればいいっていうことですか？」&lt;/p>
 &lt;p>「Congratulation!!」&lt;/p>
 &lt;p>　盛大に拍手をしながら、彼のその論理だてられた方法を褒めた。彼もやっぱり、数学が好きっていうだけあって、考えを筋道だてたり、教えられたことを応用して問題に立ち向かう力があるんだろう。そして、彼らしい数学の道を探し求めて、この部屋を飛び立つんだ。この窓から出るのか、それとも扉から出るのか、はたまたそれとも&amp;hellip;&lt;/p>
@@ -86,25 +86,25 @@ $2^1=2 \space \rightarrow 2^0 = 1$
 &lt;p>「じゃあ、その調子で指数が負の数の場合も考えられるかな？」&lt;/p>
 &lt;p>　そういうと、彼は少し得意げな表情をしながら考え込んで、答えを言った。&lt;/p>
 &lt;p>「さっきと同じように考えれば
-$2^1\times2^{-1}$
-$=2^0$
-$2^1=2\space\rightarrow 2^{-1}=1/2$
+$$2^1\times2^{-1}$$
+$$=2^0$$
+$$2^1=2\space\rightarrow 2^{-1}=1/2$$
 つまり、$a^{-n}$っていうことですね」&lt;/p>
 &lt;p>「Good job」&lt;/p>
 &lt;p>　親指を立てながら彼に行った。彼はやっぱり、褒められて照れ笑いをしていた。&lt;/p>
 &lt;p>「それじゃあ、後は少しだけ私から追加をしておくね。指数法則を守るための大事な手順って思えばいいかな。」&lt;/p>
 &lt;p>　そういうと、黒板に数式を書き綴る。数式とは、それ自体が意味を持っていて独立しているときもあれば、単独ではあまり意味をなしていないものもある。でも、ここで光り方が違うから、私から見ると、数学の世界はまるで天体だった。いくつもの星が瞬いていて、それをつなぐも数えるも人次第っていう感じ。他の人が見たらまた違う景色が映るのかもしれないから、いつしか聞いてみたいなぁ。&lt;/p>
 &lt;p>　って、手を動かさないとね。&lt;/p>
-&lt;p>$aは正の実数$
-$n,mともに正の整数の場合$
-$a^n \times a^m = a^{n+m}$
-$n,mともに負の整数の場合$
-$a^n\times a^m=1/a^{-n} \times 1/a^{-m} = 1/a^{-n-m} = a^{n+m}$
-$n,mともに0の場合$
-$a^n\times a^m= a^0 = 1$
-$n,mが異符号の整数の場合(nを正か0とする)$
-$a^n\times a^m = a^n \times 1/a^{-m} =a^n/a^{-m} = a^{n+m}$
-$\rightarrow a^n \times a^m = a^{n+m}$
+&lt;p>$$aは正の実数$$
+$$n,mともに正の整数の場合$$
+$$a^n \times a^m = a^{n+m}$$
+$$n,mともに負の整数の場合$$
+$$a^n\times a^m=1/a^{-n} \times 1/a^{-m} = 1/a^{-n-m} = a^{n+m}$$
+$$n,mともに0の場合$$
+$$a^n\times a^m= a^0 = 1$$
+$$n,mが異符号の整数の場合(nを正か0とする)$$
+$$a^n\times a^m = a^n \times 1/a^{-m} =a^n/a^{-m} = a^{n+m}$$
+$$\rightarrow a^n \times a^m = a^{n+m}$$
 は基数が実数かつ指数が整数の場合は、無矛盾かつ完全である&lt;/p>
 &lt;p>いちいち場合分けしながら描かないといけないのが面倒くさいけど、これをやらないとちゃんと書けたことにならないから仕方ないって毎回自分に言い聞かせている気がするなぁ。&lt;/p>
 &lt;p>「これは、簡単に言うなら、一番下の条件のもとなら、指数法則は自由に使えるよっていうことを書いているんだ。指数法則がどんな場合においても使えるっていうことが書けるなら、どんな時に用いても問題は起きないはずだからね。」&lt;/p>
@@ -114,18 +114,18 @@ $\rightarrow a^n \times a^m = a^{n+m}$
 &lt;p>　これはなかなかに酷な質問な気がする。考え方に工夫がいるし、何よりも指数法則が体にしみこんでいないと難しい部分が多々あるんだ。まあ、今彼がさっきの困惑した様子を見せてもしょうがないと思う。&lt;/p>
 &lt;p>「まずは簡単な例示が必要だもんね。じゃあ、こんな式から考えてみよう。」&lt;/p>
 &lt;p>　零時までしちゃっていいのか自分でもわからないけど、とりあえずここで話し切ってしまおう。&lt;/p>
-&lt;p>$(2^1)^2=4=2^2$
-$(2^2)^2=16=2^4$
-$(2^3)^2=64=2^6$&lt;/p>
+&lt;p>$$(2^1)^2=4=2^2$$
+$$(2^2)^2=16=2^4$$
+$$(2^3)^2=64=2^6$$&lt;/p>
 &lt;p>「この三つの例から、大体わかるかな？」&lt;/p>
 &lt;p>　適当に彼のために例示してあげたけど、正直これでわかってくれるか結構不安だ。昔の自分だったら理解できる気がしないけど、さっきので理解できる彼だったら、それができてしまうのかもしれない。そうすると、本当にすごいと思う。&lt;/p>
 &lt;p>　なんて頭の中で考えていたら、彼が声を上げた。さっきと同じ、知識と論理が明瞭に感じられる声だ。&lt;/p>
 &lt;p>「さっき使った指数法則から考えれば、
-$a^n\space\times a^n=a^{2n}$
+$$a^n\space\times a^n=a^{2n}$$
 ですね。つまり、二乗すれば指数部分が二倍になるわけです。
 さっきの零時でも、全く同じことが起きているので、それはその通りだと考えられます。そしたら、ここに$2^{1/2}$を代入すれば
-$2^{1/2}\times2^{1/2}=2^1$
-$\sqrt{2^1}=\sqrt{2}$
+$$2^{1/2}\times2^{1/2}=2^1$$
+$$\sqrt{2^1}=\sqrt{2}$$
 って考えれば、$2^{1/2}= \sqrt{2}$になります」&lt;/p>
 &lt;p>　と、彼らしい頭の使い方をした解答を出してくれた。その答えに、私はくすっと笑いながら&lt;/p>
 &lt;p>「一つだけ抜けてるね」&lt;/p>
@@ -155,17 +155,17 @@ $\sqrt{2^1}=\sqrt{2}$
 $sout{指数法則}$&lt;/li>
 &lt;/ul>
 &lt;p>指数法則
-$aは正の実数$
-$n,mともに正の実数の場合$
-$a^n \times a^m = a^{n+m}$
-$n,mともに負の実数の場合$
-$a^n\times a^m=1/a^{-n} \times 1/a^{-m} = 1/a^{-n-m} = a^{n+m}$
-$n,mともに0の場合$
-$a^n\times a^m= a^0 = 1$
-$n,mが異符号の場合(nを正か0とする)$
-$a^n\times a^m = a^n \times 1/a^{-m} =a^n/a^{-m} = a^{n+m}$
-$\rightarrow a^n \times a^m = a^{n+m}$
-は基数と指数が実数の場合は、無矛盾かつ完全である&lt;/p></content><category scheme="https://example.com/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="オイラーの公式" label="オイラーの公式"/></entry><entry><title type="text">足りないもの探し</title><link rel="alternate" type="text/html" href="https://example.com/posts/%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%E3%82%82%E3%81%AE%E6%8E%A2%E3%81%97/"/><id>https://example.com/posts/%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%E3%82%82%E3%81%AE%E6%8E%A2%E3%81%97/</id><updated>2020-12-23T13:38:36+00:00</updated><published>2020-12-22T22:22:52+09:00</published><author><name>古明地 蓮</name><uri>https://komeijiren.github.io/</uri><email>komeijiren3030@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">新入部員(仮)としてやってきた彼は、椅子に座って教壇の上に立っている私のことを見上げている。なんというか、先生が見る景色が見えていて、少し高くなった気がした。まだあって数分しかたっていないから、私の彼にどう接したらいいかわからないから、取り敢えず自己紹介をしてもらうことにした。
+$$aは正の実数$$
+$$n,mともに正の実数の場合$$
+$$a^n \times a^m = a^{n+m}$$
+$$n,mともに負の実数の場合$$
+$$a^n\times a^m=1/a^{-n} \times 1/a^{-m} = 1/a^{-n-m} = a^{n+m}$$
+$$n,mともに0の場合$$
+$$a^n\times a^m= a^0 = 1$$
+$$n,mが異符号の場合(nを正か0とする)$$
+$$a^n\times a^m = a^n \times 1/a^{-m} =a^n/a^{-m} = a^{n+m}$$
+$$\rightarrow a^n \times a^m = a^{n+m}$$
+は基数と指数が実数の場合は、無矛盾かつ完全である&lt;/p></content><category scheme="https://example.com/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="オイラーの公式" label="オイラーの公式"/></entry><entry><title type="text">足りないもの探し</title><link rel="alternate" type="text/html" href="https://example.com/posts/%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%E3%82%82%E3%81%AE%E6%8E%A2%E3%81%97/"/><id>https://example.com/posts/%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%E3%82%82%E3%81%AE%E6%8E%A2%E3%81%97/</id><updated>2020-12-23T13:42:07+00:00</updated><published>2020-12-22T22:22:52+09:00</published><author><name>古明地 蓮</name><uri>https://komeijiren.github.io/</uri><email>komeijiren3030@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">新入部員(仮)としてやってきた彼は、椅子に座って教壇の上に立っている私のことを見上げている。なんというか、先生が見る景色が見えていて、少し高くなった気がした。まだあって数分しかたっていないから、私の彼にどう接したらいいかわからないから、取り敢えず自己紹介をしてもらうことにした。
 「まだ初対面だけど、これから一緒に活動していくんだから、自己紹介でもし合おうか。先に君からお願いしてもいいかな？」
 　というと、彼はおどおどした様子で私の方を見ると、手をくねくね交差させながら言った。
 「**です。得意な教科は数学と物理ですけど、どちらも学校の範囲内レベルです。好きな食べ物はアイスです。よろしくお願いします。」
@@ -216,7 +216,7 @@ $sin$ $cos$ -指数法則
 &lt;li>$cos$&lt;/li>
 &lt;/ul>
 &lt;p>-指数法則&lt;/p>
-&lt;p>と、ホワイトボードに箇条書きで書いた。それを眺めながら、きょう解説するものを決めて話をしようかな。どれが一番話しやすそうかな。&lt;/p></content><category scheme="https://example.com/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="オイラーの公式" label="オイラーの公式"/></entry><entry><title type="text">始まりが大切</title><link rel="alternate" type="text/html" href="https://example.com/posts/%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%8C%E5%A4%A7%E5%88%87/"/><id>https://example.com/posts/%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%8C%E5%A4%A7%E5%88%87/</id><updated>2020-12-23T13:38:36+00:00</updated><published>2020-12-22T22:21:36+09:00</published><author><name>古明地 蓮</name><uri>https://komeijiren.github.io/</uri><email>komeijiren3030@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">私はただ一人しかいないゼミ室で淡々と数学をやっている。安直にやっていると書いてしまったけど、これを表す言葉っていうのは、なかなか見つからないんだ。勉強しているかといえば、嘘ではないような気もするけれど、学校で教えてもらうようなものとは違う。それに、研究と言ってしまうと、もういなくなってしまった先輩がやっていたようなスマートなものを思い浮かべてしまうから、それも当てはまらなくなってしまう。だから、数学をやっているとしか言えないんだ。
+&lt;p>と、ホワイトボードに箇条書きで書いた。それを眺めながら、きょう解説するものを決めて話をしようかな。どれが一番話しやすそうかな。&lt;/p></content><category scheme="https://example.com/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="オイラーの公式" label="オイラーの公式"/></entry><entry><title type="text">始まりが大切</title><link rel="alternate" type="text/html" href="https://example.com/posts/%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%8C%E5%A4%A7%E5%88%87/"/><id>https://example.com/posts/%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%8C%E5%A4%A7%E5%88%87/</id><updated>2020-12-23T13:42:07+00:00</updated><published>2020-12-22T22:21:36+09:00</published><author><name>古明地 蓮</name><uri>https://komeijiren.github.io/</uri><email>komeijiren3030@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">私はただ一人しかいないゼミ室で淡々と数学をやっている。安直にやっていると書いてしまったけど、これを表す言葉っていうのは、なかなか見つからないんだ。勉強しているかといえば、嘘ではないような気もするけれど、学校で教えてもらうようなものとは違う。それに、研究と言ってしまうと、もういなくなってしまった先輩がやっていたようなスマートなものを思い浮かべてしまうから、それも当てはまらなくなってしまう。だから、数学をやっているとしか言えないんだ。
 　気が付いたら、この部活には人がいなくなってしまった。私が入ってすぐのころから、確かに人が少なくなっていたのは知っていた。なにせ、私が入ったその時には、すでに先輩以外の部員は一人としていなくなってしまっていたらしい。しかし、先輩が言うには、こんな風になってしまったのは最近の事らしい。先輩曰く
 「昔は全生徒入部が原則だったから、どこの部活にも入れなかった人がここに集まってきていたんだ。でも、僕が二年生になるときにその制度がなくなってしまって、それを機に皆抜けてしまったんだ。」
 　とか。まあ、この日本という空間を眺めてみても、その中から無作為抽出してみたとしても、数学好きはそんなにいないと思う。だから、部員が少なくなってしまうのはしたないとは思う。でも、まさか本当に誰もいなくなってしまうんなんて思ってもいなかった。先輩がいる間は、先輩が、私が卒業するまでいるんじゃないかって錯覚していたから、こうやって一人になることなんて考えもしなかったんだ。まあ、人がいようといまいと私の数学には変わりはないんだけれど。
@@ -266,7 +266,7 @@ $sin$ $cos$ -指数法則
 &lt;p>「僕にオイラーの公式を教えてください。」&lt;/p>
 &lt;p>その言葉を聞いて、私はいつぞやの私を思い出してすこしくすっと笑うと、彼に視線を合わせながら言ってあげた。&lt;/p>
 &lt;p>「私に任せて。」&lt;/p>
-&lt;p>と。&lt;/p></content><category scheme="https://example.com/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="オイラーの公式" label="オイラーの公式"/></entry><entry><title type="text">プロローグ</title><link rel="alternate" type="text/html" href="https://example.com/posts/%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/"/><id>https://example.com/posts/%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/</id><updated>2020-12-23T13:38:36+00:00</updated><published>2020-12-22T21:17:36+09:00</published><author><name>古明地 蓮</name><uri>https://komeijiren.github.io/</uri><email>komeijiren3030@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">桜舞う小道の下。
+&lt;p>と。&lt;/p></content><category scheme="https://example.com/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="オイラーの公式" label="オイラーの公式"/></entry><entry><title type="text">プロローグ</title><link rel="alternate" type="text/html" href="https://example.com/posts/%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/"/><id>https://example.com/posts/%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/</id><updated>2020-12-23T13:42:07+00:00</updated><published>2020-12-22T21:17:36+09:00</published><author><name>古明地 蓮</name><uri>https://komeijiren.github.io/</uri><email>komeijiren3030@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">桜舞う小道の下。
 「本当に先輩は行ってしまうんですか？」
 　涙ながらに私は先輩の裾をつかみながら訴えかけた。でも、先輩はただ黙って、私と同じように泣きながらいうのだった。
 「僕が僕であるために、僕はもう巣を離れるんだ。もしかしたらまたいつか会えるかもしれないから、その日を待つことにしようよ」
@@ -274,4 +274,4 @@ $sin$ $cos$ -指数法則
 &lt;p>「本当に先輩は行ってしまうんですか？」&lt;/p>
 &lt;p>　涙ながらに私は先輩の裾をつかみながら訴えかけた。でも、先輩はただ黙って、私と同じように泣きながらいうのだった。&lt;/p>
 &lt;p>「僕が僕であるために、僕はもう巣を離れるんだ。もしかしたらまたいつか会えるかもしれないから、その日を待つことにしようよ」&lt;/p>
-&lt;p>　と言い残すと、私の唯一の先輩はゼミ室を出て行ってしまった。そうして、私はこの数学研究同好会の最後の部員になってしまったんだ。&lt;/p></content><category scheme="https://example.com/tags/%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/" term="プロローグ" label="プロローグ"/></entry><entry><title type="text">Hello World</title><link rel="alternate" type="text/html" href="https://example.com/posts/hello-world/"/><id>https://example.com/posts/hello-world/</id><updated>2020-12-23T13:38:36+00:00</updated><published>2020-12-21T21:17:36+09:00</published><author><name>古明地 蓮</name><uri>https://komeijiren.github.io/</uri><email>komeijiren3030@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">testだよ〜〜〜　いけてるかな？？</summary><content type="html">&lt;p>testだよ〜〜〜　いけてるかな？？&lt;/p></content></entry></feed>
+&lt;p>　と言い残すと、私の唯一の先輩はゼミ室を出て行ってしまった。そうして、私はこの数学研究同好会の最後の部員になってしまったんだ。&lt;/p></content><category scheme="https://example.com/tags/%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/" term="プロローグ" label="プロローグ"/></entry><entry><title type="text">Hello World</title><link rel="alternate" type="text/html" href="https://example.com/posts/hello-world/"/><id>https://example.com/posts/hello-world/</id><updated>2020-12-23T13:42:07+00:00</updated><published>2020-12-21T21:17:36+09:00</published><author><name>古明地 蓮</name><uri>https://komeijiren.github.io/</uri><email>komeijiren3030@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">testだよ〜〜〜　いけてるかな？？</summary><content type="html">&lt;p>testだよ〜〜〜　いけてるかな？？&lt;/p></content></entry></feed>
