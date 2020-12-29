@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>古明地蓮の数学小説</title><link>https://example.com/</link><description>窓の外の数学</description><generator>Hugo 0.76.5 https://gohugo.io/</generator><language>en</language><managingEditor>komeijiren3030@gmail.com (古明地 蓮)</managingEditor><webMaster>komeijiren3030@gmail.com (古明地 蓮)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Tue, 29 Dec 2020 14:23:40 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://example.com/rss.xml"/><item><title>爆発する指数</title><link>https://example.com/posts/%E7%88%86%E7%99%BA%E3%81%99%E3%82%8B%E6%8C%87%E6%95%B0/</link><guid isPermaLink="true">https://example.com/posts/%E7%88%86%E7%99%BA%E3%81%99%E3%82%8B%E6%8C%87%E6%95%B0/</guid><pubDate>Tue, 22 Dec 2020 22:23:13 +0900</pubDate><author>komeijiren3030@gmail.com (古明地 蓮)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description>&lt;p>ホワイトボードを背にして、彼の方を向きながら解説モードの私は彼に問う。&lt;/p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>古明地蓮の数学小説</title><link>https://example.com/</link><description>窓の外の数学</description><generator>Hugo 0.76.5 https://gohugo.io/</generator><language>en</language><managingEditor>komeijiren3030@gmail.com (古明地 蓮)</managingEditor><webMaster>komeijiren3030@gmail.com (古明地 蓮)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Tue, 29 Dec 2020 14:24:27 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://example.com/rss.xml"/><item><title>爆発する指数</title><link>https://example.com/posts/%E7%88%86%E7%99%BA%E3%81%99%E3%82%8B%E6%8C%87%E6%95%B0/</link><guid isPermaLink="true">https://example.com/posts/%E7%88%86%E7%99%BA%E3%81%99%E3%82%8B%E6%8C%87%E6%95%B0/</guid><pubDate>Tue, 22 Dec 2020 22:23:13 +0900</pubDate><author>komeijiren3030@gmail.com (古明地 蓮)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description>&lt;p>ホワイトボードを背にして、彼の方を向きながら解説モードの私は彼に問う。&lt;/p>
 &lt;p>「この中でも、今日は指数について勉強しようか。指数っていうのがどの部分かはわかるよね？」&lt;/p>
 &lt;p>　彼は、特に引っかかることもなく答えてくれた。&lt;/p>
 &lt;p>　
@@ -190,13 +190,13 @@ $$\rightarrow a^n \times a^m = a^{n+m}$$
 　求めたい数式だけは知っている。でも、それの導き方はよく知らない。だから、まずは$e^{i\theta}$を、どうにかしなきゃいけないんだろうなぁ。見た限り、複素平面上の単位円になるのは間違いないし&amp;hellip;。&lt;/p>
 &lt;p>　取り敢えず文字で置いてみたり、指数法則などを使って、強引に展開してみたり、無限級数を使って、求めたい数式を先に出してみたりした結果、一応答えを出すことには成功した。これで、明日の本番の準備ができた。&lt;/p>
 &lt;p>　明日というのは、新入生歓迎会のことである。各々が部活について発表して、それを聞いて新入生が部活を決めるという集会のようなものだ。まあ、これで新入生も決定っていうわけではないんだけれども、最初の掴みがないとやってきてくれないのは明白だ。だから、どうにかして人を呼び込むためにも、格好いい数式を書いて発表しようともくろんでいたんだ。きっとこれで数学好きがやってきてくれるんじゃないかな。少なくとも、過去の私は先輩がやっていた同じようなことを見てここにやってきたんだ。同じような人がいたとしてもおかしくはないだろう。そう願って、私は明日の歓迎会の台本を書き始めるのだった。&lt;/p>
-&lt;p>　新入生歓迎会の直後の部活動の時間。他の人たちは外で部員の大々的な募集を描けている部活もあれば、運動部などは特に練習をすでに開始している団体もある。その中に交じって、自分の興味を持った部活に新郵政たちは吸われていく。その動きは、どうにも数式とかには対応させられないような、自由な動きを取っている。ただ一つ、数学研究同好会だけは避けているようだけれど。&lt;/p>
+&lt;p>　新入生歓迎会の直後の部活動の時間。他の人たちは外で部員の大々的な募集を描けている部活もあれば、運動部などは特に練習をすでに開始している団体もある。その中に交じって、自分の興味を持った部活に新郵政たちは吸われていく。その動きは、どうにも数式とかには対応させられないような、自由な動きを取っている。ただ一つ、オイラー部だけは避けているようだけれど。&lt;/p>
 &lt;p>　自分では、あの新入生歓迎の発表はかなりいいものだったと思っている。でも、実際に誰も来ていないんだから、盛大に失敗してしまったんだろうか。内容としては面白い物をやった気がするし、説明もあんまり長くなく難しくなくでまとめた気がする。そして、最後にここに引き寄せるための言葉も付け加えたから、自分に似た人は来ると思っていたんだけどなぁ。結局いつも通り一人で数学をやっている。&lt;/p>
 &lt;p>　桜のにおいが舞うこの部屋の外から、つい最近まで雪が降っていたことを思い起こさせる冷えた空気が、対流を起こしながら入ってくる。だから、この部屋には外の香りが混じっていて、どこか部屋の外に立っているように感じさせる。&lt;/p>
 &lt;p>　一人詩を吟じながら、窓の外を眺めていると、いつ以来だろうか、この部屋の戸がノックされた。もしかしたらと扉の向こうにいる人に胸を躍らせながら応答した。&lt;/p>
 &lt;p>「何の用ですか？」&lt;/p>
 &lt;p>　そういうと、すこしだけ扉と壁に隙間ができたかと思うと、まだ中学を卒業してすぐだというように、すこし幼さを残した声が部屋の香りを不用意に震わせた。&lt;/p>
-&lt;p>「数学研究同好会の活動場所で合っていますか？」&lt;/p>
+&lt;p>「オイラー部の活動場所で合っていますか？」&lt;/p>
 &lt;p>　という声が聞こえた。あの人こそ私が求めていた人だと。そうして相手を怖がらせないように、優しくなでるような声で告げた。&lt;/p>
 &lt;p>「そうだよ。入部希望者の人かな？」&lt;/p>
 &lt;p>　すると、恐る恐るという言葉が最も似合うような動きで、縮こまった少年が&lt;/p>
