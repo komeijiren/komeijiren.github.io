@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>古明地蓮の数学小説</title><link>https://example.com/</link><description>窓の外の数学</description><generator>Hugo 0.76.5 https://gohugo.io/</generator><language>en</language><managingEditor>komeijiren3030@gmail.com (古明地 蓮)</managingEditor><webMaster>komeijiren3030@gmail.com (古明地 蓮)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sun, 10 Jan 2021 10:10:15 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://example.com/rss.xml"/><item><title>答えてくれる三角比</title><link>https://example.com/posts/%E7%AD%94%E3%81%88%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E4%B8%89%E8%A7%92%E6%AF%94/</link><guid isPermaLink="true">https://example.com/posts/%E7%AD%94%E3%81%88%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E4%B8%89%E8%A7%92%E6%AF%94/</guid><pubDate>Mon, 04 Jan 2021 00:04:33 +0900</pubDate><author>komeijiren3030@gmail.com (古明地 蓮)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description>&lt;p>次の日も、私はいつも通りオイラー部の部室に入り浸っていた。昨日のホワイトボードを眺めながら、きょう開設する内容を考えている。まあ、彼が今日も来てくれることが前提なんだけれどね。そうだなぁ。今日やるんだったら&amp;hellip;&lt;/p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>古明地蓮の数学小説</title><link>https://example.com/</link><description>窓の外の数学</description><generator>Hugo 0.76.5 https://gohugo.io/</generator><language>en</language><managingEditor>komeijiren3030@gmail.com (古明地 蓮)</managingEditor><webMaster>komeijiren3030@gmail.com (古明地 蓮)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sun, 10 Jan 2021 10:12:24 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://example.com/rss.xml"/><item><title>答えてくれる三角比</title><link>https://example.com/posts/%E7%AD%94%E3%81%88%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E4%B8%89%E8%A7%92%E6%AF%94/</link><guid isPermaLink="true">https://example.com/posts/%E7%AD%94%E3%81%88%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E4%B8%89%E8%A7%92%E6%AF%94/</guid><pubDate>Mon, 04 Jan 2021 00:04:33 +0900</pubDate><author>komeijiren3030@gmail.com (古明地 蓮)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description>&lt;p>次の日も、私はいつも通りオイラー部の部室に入り浸っていた。昨日のホワイトボードを眺めながら、きょう開設する内容を考えている。まあ、彼が今日も来てくれることが前提なんだけれどね。そうだなぁ。今日やるんだったら&amp;hellip;&lt;/p>
 &lt;p>ガラガラ&lt;/p>
 &lt;p>「失礼します」&lt;/p>
 &lt;p>　この声は、&lt;/p>
@@ -243,19 +243,19 @@ $$\rightarrow a^n \times a^m = a^{n+m}$$
 は基数と指数が実数の場合は、無矛盾かつ完全である&lt;/p></description><category domain="https://example.com/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/">オイラーの公式</category></item><item><title>足りないもの探し</title><link>https://example.com/posts/%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%E3%82%82%E3%81%AE%E6%8E%A2%E3%81%97/</link><guid isPermaLink="true">https://example.com/posts/%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%E3%82%82%E3%81%AE%E6%8E%A2%E3%81%97/</guid><pubDate>Tue, 22 Dec 2020 22:22:52 +0900</pubDate><author>komeijiren3030@gmail.com (古明地 蓮)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description>&lt;p>　新入部員(仮)としてやってきた彼は、椅子に座って教壇の上に立っている私のことを見上げている。なんというか、先生が見る景色が見えていて、少し高くなった気がした。まだあって数分しかたっていないから、私の彼にどう接したらいいかわからないから、取り敢えず自己紹介をしてもらうことにした。&lt;/p>
 &lt;p>「まだ初対面だけど、これから一緒に活動していくんだから、自己紹介でもし合おうか。先に君からお願いしてもいいかな？」&lt;/p>
 &lt;p>　というと、彼はおどおどした様子で私の方を見ると、手をくねくね交差させながら言った。&lt;/p>
-&lt;p>「**です。得意な教科は数学と物理ですけど、どちらも学校の範囲内レベルです。好きな食べ物はアイスです。よろしくお願いします。」&lt;/p>
-&lt;p>　と、男子とは思えない可愛げのある高い声で教えてくれた。**くんかぁ。一緒に数学をやる大切な仲間になるんだから、しっかり名前ぐらい覚えないと。あと、私から自己紹介もしないとね。&lt;/p>
+&lt;p>「結城　雅です。得意な教科は数学と物理ですけど、どちらも学校の範囲内レベルです。好きな食べ物はアイスです。よろしくお願いします。」&lt;/p>
+&lt;p>　と、男子とは思えない可愛げのある高い声で教えてくれた。結城　雅くんかぁ。一緒に数学をやる大切な仲間になるんだから、しっかり名前ぐらい覚えないと。あと、私から自己紹介もしないとね。&lt;/p>
 &lt;p>「私の名前は篁 瑠璃だよ。あんまり敬語は使われ慣れてないから、わざわざ丁寧な言葉にしなくてもいいよ。好きな教科は見ての通り数学だね。後は生物と物理も得意かなぁ。いろんなものが好きすぎて自分でも良く分かんないや。好きな食べ物はチョコムースとかの甘いものだね。」&lt;/p>
-&lt;p>　と彼に教えるかのように行った。彼は私の名前を何度もリピートしているようで、なんだか見ていて恥ずかしくなってしまった。まあ、今はそんなことを言っている場合じゃないのかもしれない。とりあえず、この人だけでも部活に入ってほしいから、少しでも彼の木を弾けるような話をしなきゃ。&lt;/p>
+&lt;p>　と雅君に教えるかのように行った。雅君は私の名前を何度もリピートしているようで、なんだか見ていて恥ずかしくなってしまった。まあ、今はそんなことを言っている場合じゃないのかもしれない。とりあえず、この人だけでも部活に入ってほしいから、少しでも雅君の気を引けるような話をしなきゃ。&lt;/p>
 &lt;p>「ところで、何か目標があってこの部活に来たの？それとも、単純に数学が好きだから？」&lt;/p>
-&lt;p>　と、聞いてみると、彼からは意外な返答が返ってきた。&lt;/p>
+&lt;p>　と、聞いてみると、雅君からは意外な返答が返ってきた。&lt;/p>
 &lt;p>「さっき話していた$e^{i\theta}=cos(\theta)+isin(\theta)$っていう式について教えてほしいんです。」&lt;/p>
 &lt;p>　思わず私は心の底から嬉しくなってしまった。自分の発表で、人を惹きつけられたんだと思うと、自分でもそういうことができたんだって自信が持てる。まあ、もしかしたら一切関係ないのかもしれないけど。まあ、気持ちが昂るのは自分で押さえることにしよう。&lt;/p>
-&lt;p>　彼が言っていた式をホワイトボードに書くと、彼に一つ質問を投げてみることにした。まあ、多分どういう返答が返ってくるだろうっていうのは予想が付くけれど。&lt;/p>
+&lt;p>　雅君が言っていた式をホワイトボードに書くと、雅君に一つ質問を投げてみることにした。まあ、多分どういう返答が返ってくるだろうっていうのは予想が付くけれど。&lt;/p>
 &lt;p>「それで、この式で具体的にわからないのってどれのことかな？」&lt;/p>
-&lt;p>　まあ、何が分からないかがわかってしまえば、自分で調べれば済んでしまうだろう。だから、実際にはそれすらわからないから、理解しているであろう人に頼ったんだと思う。予想通り、彼はいろいろ考える様子を見せながら、ぽつりと言った。&lt;/p>
+&lt;p>　まあ、何が分からないかがわかってしまえば、自分で調べれば済んでしまうだろう。だから、実際にはそれすらわからないから、理解しているであろう人に頼ったんだと思う。予想通り、雅君はいろいろ考える様子を見せながら、ぽつりと言った。&lt;/p>
 &lt;p>「&amp;hellip;全部わからないです&amp;hellip;」&lt;/p>
-&lt;p>　その言葉が出てきたから、これで私はやっと本領発揮ていう感じだ。先生的な解説モードに思考をシフトして、彼への説明を始める。&lt;/p>
+&lt;p>　その言葉が出てきたから、これで私はやっと本領発揮ていう感じだ。先生的な解説モードに思考をシフトして、雅君への説明を始める。&lt;/p>
 &lt;p>「じゃあ、まずはこの式の要素を分けていこうか。まずは数として出てきている$e$と$\theta$と$i$かな。それに、関数として登場している$sin$と$cos$。最後に、指数だね。」&lt;/p>
 &lt;p>　と言いながら、&lt;/p>
 &lt;p>数&lt;/p>
