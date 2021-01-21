@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>古明地蓮の数学小説</title><link>https://example.com/</link><description>窓の外の数学</description><generator>Hugo 0.76.5 https://gohugo.io/</generator><language>en</language><managingEditor>komeijiren3030@gmail.com (古明地 蓮)</managingEditor><webMaster>komeijiren3030@gmail.com (古明地 蓮)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Thu, 21 Jan 2021 12:07:50 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://example.com/rss.xml"/><item><title>空虚なる数</title><link>https://example.com/posts/%E7%A9%BA%E8%99%9A%E3%81%AA%E3%82%8B%E7%90%86%E6%83%B3/</link><guid isPermaLink="true">https://example.com/posts/%E7%A9%BA%E8%99%9A%E3%81%AA%E3%82%8B%E7%90%86%E6%83%B3/</guid><pubDate>Thu, 21 Jan 2021 21:04:34 +0900</pubDate><author>komeijiren3030@gmail.com (古明地 蓮)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description>&lt;p>今日もいつものように、一番乗りで部室に到達した&amp;hellip;はずだった。&lt;/p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>古明地蓮の数学小説</title><link>https://example.com/</link><description>窓の外の数学</description><generator>Hugo 0.76.5 https://gohugo.io/</generator><language>en</language><managingEditor>komeijiren3030@gmail.com (古明地 蓮)</managingEditor><webMaster>komeijiren3030@gmail.com (古明地 蓮)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Thu, 21 Jan 2021 12:44:09 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://example.com/rss.xml"/><item><title>空虚なる数</title><link>https://example.com/posts/%E7%A9%BA%E8%99%9A%E3%81%AA%E3%82%8B%E7%90%86%E6%83%B3/</link><guid isPermaLink="true">https://example.com/posts/%E7%A9%BA%E8%99%9A%E3%81%AA%E3%82%8B%E7%90%86%E6%83%B3/</guid><pubDate>Thu, 21 Jan 2021 21:04:34 +0900</pubDate><author>komeijiren3030@gmail.com (古明地 蓮)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description>&lt;p>今日もいつものように、一番乗りで部室に到達した&amp;hellip;はずだった。&lt;/p>
 &lt;p>「なんで解けないんだ～&amp;hellip;」&lt;/p>
 &lt;p>　と、誰かが部室の中で声を上げているのが、聞こえてきて、急いで部室に入ると、雅君がすでにいつものところに座っていた。私に気が付くと、さっきまでの様子を隠すように&lt;/p>
 &lt;p>「こ、こんにちわ～」&lt;/p>
@@ -65,7 +65,9 @@ $$(a+bi)\times (c+di)=(ac-bd)+(ad+bc)i$$&lt;/p>
 &lt;p>　というと、彼は何度かうなずいた後に&lt;/p>
 &lt;p>「矛盾が起きなくて、必ず答えが出る要素なら導入しても問題ないんですね。僕が虚数に違和感を抱いたとしても、虚数を導入した数学が無矛盾かつ完全だから問題ないっていうことですか。」&lt;/p>
 &lt;p>　と、落ち着いた様子で答えた。私は彼の顔を見ながら何度か首をこくこくと縦に振った。論理的な彼だから簡単に理解できることなんだけど、私には結構理解できなかったことだ。だから、スムーズに理解してくれたのは、少しうれしかった。とは言っても、複素数については、まだほとんど話ができていない。まだまだこれから難しい話が残っているんだ。&lt;/p>
-&lt;p>「それじゃあ、本格的に虚数について計算していこう。ただ、その前に一つ武器を入手しよう。」&lt;/p>
+&lt;p>「それじゃあ、本格的に虚数について計算していこう。一応だけど、虚数のこのことだけは覚えていてね。」&lt;/p>
+&lt;p>　と言って、ホワイトボードに$i^2 = -1$って書いた。そして、雅君の方を見ると、さも当然というような顔をしていた。だから、特に何も聞かないでその先の話をすることにした。&lt;/p>
+&lt;p>「ただ、自裁に複素数の計算に入る前に、一つ武器を入手しよう。」&lt;/p>
 &lt;p>「武器？」&lt;/p>
 &lt;p>　と、雅君は首を傾げた。複素数を勉強するうえで強力な武器があるんだ。それを先に説明しちゃいたいと、今全身がそう思っているから、説明しちゃう。&lt;/p>
 &lt;p>「実数のときには、数直線って言って、一直線上に数を羅列で来たよね。それと同じような性質のもので、複素数に対応したものを手に入れるんだ。」&lt;/p>
