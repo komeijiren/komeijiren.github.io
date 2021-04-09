@@ -3,8 +3,8 @@
 
 baseURL = "https://example.com/"
 title = "古明地蓮の数学小説"
-languageCode = "en"
-hasCJKLanguage = false
+languageCode = "ja"
+hasCJKLanguage = true
 googleAnalytics = "UA-162479993-3"
 disqusShortname = "chuang-nowai-noshu-xue"
 
@@ -18,23 +18,23 @@ theme = "meme"
 newContentEditor = ""
 
 # i18n
-defaultContentLanguage = "en"
+defaultContentLanguage = "ja"
 defaultContentLanguageInSubdir = false
 
 # Pluralize titles in lists?
 pluralizeListTitles = false
 
 # The length of text in words to show in summary
-summaryLength = 42
+summaryLength = 222
 
 # Enable Emoji emoticons support?
-enableEmoji = false
+enableEmoji = true
 
 # Text to display for footnote return links
 footnoteReturnLinkContents = "↩"
 
 # Enable `.GitInfo` object for each page?
-enableGitInfo = false
+enableGitInfo = true
 
 # Enable generation of `robots.txt` file?
 enableRobotsTXT = true
@@ -55,9 +55,9 @@ uglyURLs = false
     tags = "/tags/:slug/"
 
 # Taxonomies
-[taxonomies]
-    category = "categories"
-    tag = "tags"
+#[taxonomies]
+#    category = "categories"
+#    tag = "tags"
 
 # Modified date
 [frontmatter]
@@ -200,16 +200,16 @@ uglyURLs = false
     #     post = "home"
     [[menu.main]]
         url = "/posts/"
-        name = "Posts"
+        name = "新着"
         weight = 2
         pre = "internal"
         post = "archive"
-    [[menu.main]]
-        url = "/categories/"
-        name = "Categories"
-        weight = 3
-        pre = "internal"
-        post = "th"
+#    [[menu.main]]
+#        url = "/categories/"
+#        name = "Categories"
+#        weight = 3
+#        pre = "internal"
+#        post = "th"
     [[menu.main]]
         url = "/tags/"
         name = "Tags"
@@ -381,7 +381,7 @@ uglyURLs = false
     # tree organization structure of your
     # posts.
 
-    categoryBy = "categories"
+    categoryBy = "sections"
     # ATTENTION: If you set it to `sections`,
     #            be sure to delete `categories`
     #            in `taxonomies` at the top
@@ -1143,7 +1143,7 @@ uglyURLs = false
     #       `related` in post’s Front Matter
     #       has a higher priority than here
 
-    relatedPostsNumber = 5
+    relatedPostsNumber = 100
 
     relatedPostsIcon = "plus-circle"
 
