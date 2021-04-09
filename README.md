@@ -1,4 +1,2 @@
 # komeijiren.github.io
- 
-test
-from intellij
+[https://komeijiren.github.io/](https://komeijiren.github.io/)
