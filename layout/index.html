@@ -1,5 +1,1 @@
-<ul>
-2  {% for post in site.posts reversed %} <!-- ここにreversedを追加 -->
-3    <li><a href="{{ post.url }}"> {{ post.title }}</a></li>
-4  {% endfor %}
-5</ul>
+{{ define "main" }} {{ if eq .Site.Params.homeLayout "poetry" }} {{ partial "pages/home-poetry.html" . }} {{ end }} {{ if eq .Site.Params.homeLayout "footage" }} {{ partial "pages/home-footage.html" . }} {{ end }} {{ if eq .Site.Params.homeLayout "posts" }} {{ partial "pages/home-posts.html" . }} {{ end }} {{ if eq .Site.Params.homeLayout "page" }} {{ partial "pages/post.html" . }} {{ end }} {{ end }}
