@@ -2,6 +2,7 @@
 title: "目次"
 date: 2021-04-10T00:26:53+09:00
 draft: false
+tags: [窓の外の数学]
 ---
 
 ![](https://cdn.discordapp.com/attachments/697796206327234592/830101951173623828/image0.png)
