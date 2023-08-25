@@ -1,0 +1,64 @@
+{{ define "main" }}
+    {{- $path := "" -}}
+    {{- with .File -}}
+        {{- $path = .Path -}}
+    {{- else -}}
+        {{- $path = .Path -}}
+    {{- end -}}
+
+    {{ if and (eq .Kind "section") .Content }}
+        {{ partial "pages/post.html" . }}
+    {{ else }}
+        <main class="main list" id="main">
+            <div class="main-inner">
+                <div class="content list-group">
+                    {{ if .Site.Params.displayListTitle }}
+                        {{ if (eq .Kind "section") }}
+                            <h1 class="list-title">{{ .Title | default (delimit (last 1 (split (strings.TrimSuffix "/_index.md" $path) "/")) " ") }}</h1>
+                        {{ end }}
+                        {{ if (eq .Kind "term") }}
+                            <h1 class="list-title">{{ .Title | default .Data.Term | default (delimit (last 1 (split (strings.TrimSuffix "/_index.md" $path) "/")) " ") }}</h1>
+                        {{ end }}
+                    {{ end }}
+
+                    {{ .Scratch.Delete "pages" }}
+
+                    <!-- Section -->
+                    {{ if (eq .Kind "section") }}
+                        <!-- Archives -->
+                        {{ if (eq .Section "archives") }}
+                            {{ $pages := (where .Site.RegularPages "Section" "in" .Site.Params.mainSections) }}
+                            {{ .Scratch.Set "pages" $pages }}
+                        <!-- Regular Section -->
+                        {{ else }}
+                            {{ $sectionPage := .CurrentSection }}
+                            {{ range .Site.RegularPages }}
+                                {{ if (.IsDescendant $sectionPage) }}
+                                    {{ $.Scratch.Add "pages" (slice .) }}
+                                {{ end }}
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+
+                    <!-- Taxonomy (See `taxonomy` folder) -->
+
+                    <!-- Taxonomy Term -->
+                    {{ if (eq .Kind "term") }}
+                        {{ $pages := .Pages }}
+                        {{ $.Scratch.Set "pages" $pages }}
+                    {{ end }}
+
+                    <!-- Start List -->
+                    {{ $pages := .Scratch.Get "pages" }}
+                    {{ range $pages.GroupByParams "chapter" }}
+                    {{ $.Scratch.Set "chapter" .Key }}
+                    {{ $chapter := $.Scratch.Get "chapter" }}
+                        <h2 class="list-story">{{ $chapter }}</h2>
+                        {{ partial "utils/list-item.html" (dict "$" .) }}
+                        {{ end }}
+                    {{ end }}
+                </div>
+            </div>
+        </main>
+    {{ end }}
+{{ end }}
