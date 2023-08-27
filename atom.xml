@@ -4,13 +4,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
     <title type="text">古明地蓮の物置き</title>
     <subtitle type="html">古明地蓮の物置き</subtitle>
-    <updated>2023-08-25T10:37:18&#43;09:00</updated>
-    <id>https://example.com/</id>
-    <link rel="alternate" type="text/html" href="https://example.com/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
+    <updated>2023-08-27T09:33:28&#43;09:00</updated>
+    <id>https://komeijiren.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://komeijiren.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://komeijiren.github.io/atom.xml" />
     <author>
             <name>古明地 蓮</name>
-            <uri>https://example.com/</uri>
+            <uri>https://komeijiren.github.io/</uri>
             
                 <email>komeijiren3030@gmail.com</email>
             </author>
@@ -18,8 +18,8 @@
     <generator uri="https://gohugo.io/" version="0.111.3">Hugo</generator>
         <entry>
             <title type="text">エピローグ</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/5%E7%AB%A0-%E3%82%A8%E3%83%94%E3%83%AD%E3%83%BC%E3%82%B0/0/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/5%E7%AB%A0-%E3%82%A8%E3%83%94%E3%83%AD%E3%83%BC%E3%82%B0/0/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/5%E7%AB%A0-%E3%82%A8%E3%83%94%E3%83%AD%E3%83%BC%E3%82%B0/0/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/5%E7%AB%A0-%E3%82%A8%E3%83%94%E3%83%AD%E3%83%BC%E3%82%B0/0/</id>
             <updated>2023-08-16T09:50:23&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -50,7 +50,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/5%E7%AB%A0-%E3%82%A8%E3%83%94%E3%83%AD%E3%83%BC%E3%82%B0/" term="posts\300万円の命\5章 エピローグ\" label="posts\300万円の命\5章 エピローグ\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/5%E7%AB%A0-%E3%82%A8%E3%83%94%E3%83%AD%E3%83%BC%E3%82%B0/" term="posts\300万円の命\5章 エピローグ\" label="posts\300万円の命\5章 エピローグ\" />
                         
                     
                 
@@ -65,8 +65,8 @@
     
         <entry>
             <title type="text">プロローグ</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/0%E7%AB%A0-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/0/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/0%E7%AB%A0-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/0/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/0%E7%AB%A0-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/0/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/0%E7%AB%A0-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/0/</id>
             <updated>2023-08-16T09:52:28&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -94,7 +94,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/0%E7%AB%A0-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/" term="posts\300万円の命\0章 プロローグ\" label="posts\300万円の命\0章 プロローグ\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/0%E7%AB%A0-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/" term="posts\300万円の命\0章 プロローグ\" label="posts\300万円の命\0章 プロローグ\" />
                         
                     
                 
@@ -109,8 +109,8 @@
     
         <entry>
             <title type="text">プロローグ</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/0%E7%AB%A0-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/0/" />
-            <id>https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/0%E7%AB%A0-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/0/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/0%E7%AB%A0-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/0/" />
+            <id>https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/0%E7%AB%A0-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/0/</id>
             <updated>2023-08-25T10:13:20&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -135,7 +135,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/0%E7%AB%A0-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/" term="posts\あの七夕の日を忘れない\0章 プロローグ\" label="posts\あの七夕の日を忘れない\0章 プロローグ\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/0%E7%AB%A0-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/" term="posts\あの七夕の日を忘れない\0章 プロローグ\" label="posts\あの七夕の日を忘れない\0章 プロローグ\" />
                         
                     
                 
@@ -150,8 +150,8 @@
     
         <entry>
             <title type="text">安定を求めて</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/1/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/1/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/1/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/1/</id>
             <updated>2023-08-16T09:45:15&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -272,7 +272,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/" term="posts\300万円の命\4章\" label="posts\300万円の命\4章\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/" term="posts\300万円の命\4章\" label="posts\300万円の命\4章\" />
                         
                     
                 
@@ -287,8 +287,8 @@
     
         <entry>
             <title type="text">初めての受験</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/1/" />
-            <id>https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/1/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/1/" />
+            <id>https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/1/</id>
             <updated>2023-08-25T10:24:30&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -560,7 +560,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/" term="posts\あの七夕の日を忘れない\2章\" label="posts\あの七夕の日を忘れない\2章\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/" term="posts\あの七夕の日を忘れない\2章\" label="posts\あの七夕の日を忘れない\2章\" />
                         
                     
                 
@@ -575,8 +575,8 @@
     
         <entry>
             <title type="text">日常に潜む非日常</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/1/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/1/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/1/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/1/</id>
             <updated>2023-08-16T09:30:32&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -664,7 +664,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/" term="posts\300万円の命\2章\" label="posts\300万円の命\2章\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/" term="posts\300万円の命\2章\" label="posts\300万円の命\2章\" />
                         
                     
                 
@@ -679,8 +679,8 @@
     
         <entry>
             <title type="text">悲愴の予兆</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/1/" />
-            <id>https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/1/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/1/" />
+            <id>https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/1/</id>
             <updated>2023-08-25T10:27:30&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -775,7 +775,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/" term="posts\あの七夕の日を忘れない\3章\" label="posts\あの七夕の日を忘れない\3章\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/" term="posts\あの七夕の日を忘れない\3章\" label="posts\あの七夕の日を忘れない\3章\" />
                         
                     
                 
@@ -790,8 +790,8 @@
     
         <entry>
             <title type="text">忘れられない七夕の日</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/4%E7%AB%A0/1/" />
-            <id>https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/4%E7%AB%A0/1/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/4%E7%AB%A0/1/" />
+            <id>https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/4%E7%AB%A0/1/</id>
             <updated>2023-08-25T10:33:20&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -897,7 +897,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/4%E7%AB%A0/" term="posts\あの七夕の日を忘れない\4章\" label="posts\あの七夕の日を忘れない\4章\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/4%E7%AB%A0/" term="posts\あの七夕の日を忘れない\4章\" label="posts\あの七夕の日を忘れない\4章\" />
                         
                     
                 
@@ -912,8 +912,8 @@
     
         <entry>
             <title type="text">夢の中の過去</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/1/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/1/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/1/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/1/</id>
             <updated>2023-08-16T09:36:22&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -985,7 +985,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/" term="posts\300万円の命\3章\" label="posts\300万円の命\3章\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/" term="posts\300万円の命\3章\" label="posts\300万円の命\3章\" />
                         
                     
                 
@@ -1000,8 +1000,8 @@
     
         <entry>
             <title type="text">プロローグ</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/0%E7%AB%A0-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/0/" />
-            <id>https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/0%E7%AB%A0-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/0/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/0%E7%AB%A0-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/0/" />
+            <id>https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/0%E7%AB%A0-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/0/</id>
             <updated>2023-08-15T01:45:01&#43;09:00</updated>
             <published>2020-12-22T21:17:36&#43;09:00</published>
             <author>
@@ -1027,7 +1027,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/0%E7%AB%A0-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/" term="posts\窓の外の数学\0章 プロローグ\" label="posts\窓の外の数学\0章 プロローグ\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/0%E7%AB%A0-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/" term="posts\窓の外の数学\0章 プロローグ\" label="posts\窓の外の数学\0章 プロローグ\" />
                         
                     
                 
@@ -1040,7 +1040,7 @@
                             
                             
                             
-                                <category scheme="https://example.com/tags/%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/" term="プロローグ" label="プロローグ" />
+                                <category scheme="https://komeijiren.github.io/tags/%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/" term="プロローグ" label="プロローグ" />
                             
                         
                     
@@ -1050,8 +1050,8 @@
     
         <entry>
             <title type="text">エピローグ</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/4%E7%AB%A0/2/" />
-            <id>https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/4%E7%AB%A0/2/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/4%E7%AB%A0/2/" />
+            <id>https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/4%E7%AB%A0/2/</id>
             <updated>2023-08-25T10:33:20&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -1088,7 +1088,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/4%E7%AB%A0/" term="posts\あの七夕の日を忘れない\4章\" label="posts\あの七夕の日を忘れない\4章\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/4%E7%AB%A0/" term="posts\あの七夕の日を忘れない\4章\" label="posts\あの七夕の日を忘れない\4章\" />
                         
                     
                 
@@ -1103,8 +1103,8 @@
     
         <entry>
             <title type="text">はじめの一歩</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/1/" />
-            <id>https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/1/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/1/" />
+            <id>https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/1/</id>
             <updated>2023-08-25T10:15:58&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -1337,7 +1337,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/" term="posts\あの七夕の日を忘れない\1章\" label="posts\あの七夕の日を忘れない\1章\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/" term="posts\あの七夕の日を忘れない\1章\" label="posts\あの七夕の日を忘れない\1章\" />
                         
                     
                 
@@ -1352,8 +1352,8 @@
     
         <entry>
             <title type="text">関わりたくない過去</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/2/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/2/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/2/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/2/</id>
             <updated>2023-08-16T09:37:23&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -1455,7 +1455,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/" term="posts\300万円の命\3章\" label="posts\300万円の命\3章\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/" term="posts\300万円の命\3章\" label="posts\300万円の命\3章\" />
                         
                     
                 
@@ -1470,8 +1470,8 @@
     
         <entry>
             <title type="text">嫌いな人</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/1/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/1/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/1/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/1/</id>
             <updated>2023-08-16T09:16:20&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -1543,7 +1543,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/" term="posts\300万円の命\1章\" label="posts\300万円の命\1章\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/" term="posts\300万円の命\1章\" label="posts\300万円の命\1章\" />
                         
                     
                 
@@ -1558,8 +1558,8 @@
     
         <entry>
             <title type="text">始まりは唐突に</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/0%E7%AB%A0-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/1/" />
-            <id>https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/0%E7%AB%A0-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/1/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/0%E7%AB%A0-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/1/" />
+            <id>https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/0%E7%AB%A0-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/1/</id>
             <updated>2023-08-25T10:13:41&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -1622,7 +1622,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/0%E7%AB%A0-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/" term="posts\あの七夕の日を忘れない\0章 プロローグ\" label="posts\あの七夕の日を忘れない\0章 プロローグ\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/0%E7%AB%A0-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/" term="posts\あの七夕の日を忘れない\0章 プロローグ\" label="posts\あの七夕の日を忘れない\0章 プロローグ\" />
                         
                     
                 
@@ -1637,8 +1637,8 @@
     
         <entry>
             <title type="text">情報を求めて</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/2/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/2/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/2/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/2/</id>
             <updated>2023-08-16T09:46:03&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -1733,7 +1733,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/" term="posts\300万円の命\4章\" label="posts\300万円の命\4章\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/" term="posts\300万円の命\4章\" label="posts\300万円の命\4章\" />
                         
                     
                 
@@ -1748,8 +1748,8 @@
     
         <entry>
             <title type="text">人のふり見て…</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/2/" />
-            <id>https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/2/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/2/" />
+            <id>https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/2/</id>
             <updated>2023-08-25T10:27:56&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -1934,7 +1934,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/" term="posts\あの七夕の日を忘れない\3章\" label="posts\あの七夕の日を忘れない\3章\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/" term="posts\あの七夕の日を忘れない\3章\" label="posts\あの七夕の日を忘れない\3章\" />
                         
                     
                 
@@ -1949,8 +1949,8 @@
     
         <entry>
             <title type="text">同居人の非日常</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/2/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/2/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/2/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/2/</id>
             <updated>2023-08-16T09:30:55&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -2045,7 +2045,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/" term="posts\300万円の命\2章\" label="posts\300万円の命\2章\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/" term="posts\300万円の命\2章\" label="posts\300万円の命\2章\" />
                         
                     
                 
@@ -2060,8 +2060,8 @@
     
         <entry>
             <title type="text">病院のバレンタイン</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/2/" />
-            <id>https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/2/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/2/" />
+            <id>https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/2/</id>
             <updated>2023-08-25T10:24:54&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -2292,7 +2292,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/" term="posts\あの七夕の日を忘れない\2章\" label="posts\あの七夕の日を忘れない\2章\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/" term="posts\あの七夕の日を忘れない\2章\" label="posts\あの七夕の日を忘れない\2章\" />
                         
                     
                 
@@ -2307,8 +2307,8 @@
     
         <entry>
             <title type="text">始まりが大切</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/1/" />
-            <id>https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/1/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/1/" />
+            <id>https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/1/</id>
             <updated>2023-08-15T01:44:59&#43;09:00</updated>
             <published>2020-12-22T22:21:36&#43;09:00</published>
             <author>
@@ -2357,7 +2357,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="posts\窓の外の数学\オイラーの公式\" label="posts\窓の外の数学\オイラーの公式\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="posts\窓の外の数学\オイラーの公式\" label="posts\窓の外の数学\オイラーの公式\" />
                         
                     
                 
@@ -2370,7 +2370,7 @@
                             
                             
                             
-                                <category scheme="https://example.com/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="オイラーの公式" label="オイラーの公式" />
+                                <category scheme="https://komeijiren.github.io/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="オイラーの公式" label="オイラーの公式" />
                             
                         
                     
@@ -2380,8 +2380,8 @@
     
         <entry>
             <title type="text">ふと気がつく非日常</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/3/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/3/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/3/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/3/</id>
             <updated>2023-08-16T09:32:20&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -2487,7 +2487,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/" term="posts\300万円の命\2章\" label="posts\300万円の命\2章\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/" term="posts\300万円の命\2章\" label="posts\300万円の命\2章\" />
                         
                     
                 
@@ -2502,8 +2502,8 @@
     
         <entry>
             <title type="text">懐かしのバレンタイン</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/3/" />
-            <id>https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/3/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/3/" />
+            <id>https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/3/</id>
             <updated>2023-08-25T10:25:15&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -2627,7 +2627,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/" term="posts\あの七夕の日を忘れない\2章\" label="posts\あの七夕の日を忘れない\2章\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/" term="posts\あの七夕の日を忘れない\2章\" label="posts\あの七夕の日を忘れない\2章\" />
                         
                     
                 
@@ -2642,8 +2642,8 @@
     
         <entry>
             <title type="text">食い違う過去</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/3/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/3/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/3/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/3/</id>
             <updated>2023-08-16T09:38:23&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -2748,7 +2748,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/" term="posts\300万円の命\3章\" label="posts\300万円の命\3章\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/" term="posts\300万円の命\3章\" label="posts\300万円の命\3章\" />
                         
                     
                 
@@ -2763,8 +2763,8 @@
     
         <entry>
             <title type="text">新しい日々を求めて</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/3/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/3/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/3/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/3/</id>
             <updated>2023-08-16T09:47:08&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -2877,7 +2877,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/" term="posts\300万円の命\4章\" label="posts\300万円の命\4章\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/" term="posts\300万円の命\4章\" label="posts\300万円の命\4章\" />
                         
                     
                 
@@ -2892,8 +2892,8 @@
     
         <entry>
             <title type="text">新たな日々</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/2/" />
-            <id>https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/2/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/2/" />
+            <id>https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/2/</id>
             <updated>2023-08-25T10:16:21&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -3170,7 +3170,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/" term="posts\あの七夕の日を忘れない\1章\" label="posts\あの七夕の日を忘れない\1章\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/" term="posts\あの七夕の日を忘れない\1章\" label="posts\あの七夕の日を忘れない\1章\" />
                         
                     
                 
@@ -3185,8 +3185,8 @@
     
         <entry>
             <title type="text">絶望の淵を覗く</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/3/" />
-            <id>https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/3/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/3/" />
+            <id>https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/3/</id>
             <updated>2023-08-25T10:29:07&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -3296,7 +3296,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/" term="posts\あの七夕の日を忘れない\3章\" label="posts\あの七夕の日を忘れない\3章\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/" term="posts\あの七夕の日を忘れない\3章\" label="posts\あの七夕の日を忘れない\3章\" />
                         
                     
                 
@@ -3311,8 +3311,8 @@
     
         <entry>
             <title type="text">優しい人</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/2/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/2/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/2/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/2/</id>
             <updated>2023-08-16T09:19:57&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -3419,7 +3419,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/" term="posts\300万円の命\1章\" label="posts\300万円の命\1章\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/" term="posts\300万円の命\1章\" label="posts\300万円の命\1章\" />
                         
                     
                 
@@ -3434,8 +3434,8 @@
     
         <entry>
             <title type="text">足りないもの探し</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/2/" />
-            <id>https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/2/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/2/" />
+            <id>https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/2/</id>
             <updated>2023-08-15T01:44:59&#43;09:00</updated>
             <published>2020-12-22T22:22:52&#43;09:00</published>
             <author>
@@ -3487,7 +3487,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="posts\窓の外の数学\オイラーの公式\" label="posts\窓の外の数学\オイラーの公式\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="posts\窓の外の数学\オイラーの公式\" label="posts\窓の外の数学\オイラーの公式\" />
                         
                     
                 
@@ -3500,7 +3500,7 @@
                             
                             
                             
-                                <category scheme="https://example.com/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="オイラーの公式" label="オイラーの公式" />
+                                <category scheme="https://komeijiren.github.io/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="オイラーの公式" label="オイラーの公式" />
                             
                         
                     
@@ -3510,8 +3510,8 @@
     
         <entry>
             <title type="text">久しぶりの買い物</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/3/" />
-            <id>https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/3/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/3/" />
+            <id>https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/3/</id>
             <updated>2023-08-25T10:17:53&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -3948,7 +3948,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/" term="posts\あの七夕の日を忘れない\1章\" label="posts\あの七夕の日を忘れない\1章\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/" term="posts\あの七夕の日を忘れない\1章\" label="posts\あの七夕の日を忘れない\1章\" />
                         
                     
                 
@@ -3963,8 +3963,8 @@
     
         <entry>
             <title type="text">幸福のバレンタイン</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/4/" />
-            <id>https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/4/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/4/" />
+            <id>https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/4/</id>
             <updated>2023-08-25T10:25:48&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -4106,7 +4106,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/" term="posts\あの七夕の日を忘れない\2章\" label="posts\あの七夕の日を忘れない\2章\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/" term="posts\あの七夕の日を忘れない\2章\" label="posts\あの七夕の日を忘れない\2章\" />
                         
                     
                 
@@ -4121,8 +4121,8 @@
     
         <entry>
             <title type="text">書店とカフェの非日常</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/4/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/4/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/4/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/4/</id>
             <updated>2023-08-16T09:33:20&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -4260,7 +4260,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/" term="posts\300万円の命\2章\" label="posts\300万円の命\2章\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/" term="posts\300万円の命\2章\" label="posts\300万円の命\2章\" />
                         
                     
                 
@@ -4275,8 +4275,8 @@
     
         <entry>
             <title type="text">小康を求めて</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/4/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/4/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/4/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/4/</id>
             <updated>2023-08-16T09:48:33&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -4397,7 +4397,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/" term="posts\300万円の命\4章\" label="posts\300万円の命\4章\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/" term="posts\300万円の命\4章\" label="posts\300万円の命\4章\" />
                         
                     
                 
@@ -4412,8 +4412,8 @@
     
         <entry>
             <title type="text">絶望の底に叩き落されて</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/4/" />
-            <id>https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/4/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/4/" />
+            <id>https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/4/</id>
             <updated>2023-08-25T10:29:42&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -4523,7 +4523,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/" term="posts\あの七夕の日を忘れない\3章\" label="posts\あの七夕の日を忘れない\3章\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/" term="posts\あの七夕の日を忘れない\3章\" label="posts\あの七夕の日を忘れない\3章\" />
                         
                     
                 
@@ -4538,8 +4538,8 @@
     
         <entry>
             <title type="text">面影感じる人</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/3/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/3/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/3/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/3/</id>
             <updated>2023-08-16T09:19:50&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -4610,7 +4610,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/" term="posts\300万円の命\1章\" label="posts\300万円の命\1章\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/" term="posts\300万円の命\1章\" label="posts\300万円の命\1章\" />
                         
                     
                 
@@ -4625,8 +4625,8 @@
     
         <entry>
             <title type="text">立ち向かうべき過去</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/4/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/4/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/4/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/4/</id>
             <updated>2023-08-16T09:42:56&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -4752,7 +4752,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/" term="posts\300万円の命\3章\" label="posts\300万円の命\3章\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/" term="posts\300万円の命\3章\" label="posts\300万円の命\3章\" />
                         
                     
                 
@@ -4767,8 +4767,8 @@
     
         <entry>
             <title type="text">爆発する指数</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/3/" />
-            <id>https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/3/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/3/" />
+            <id>https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/3/</id>
             <updated>2023-08-15T01:44:59&#43;09:00</updated>
             <published>2020-12-22T22:23:13&#43;09:00</published>
             <author>
@@ -4940,7 +4940,7 @@ $$\rightarrow a^n \times a^m = a^{n+m}$$
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="posts\窓の外の数学\オイラーの公式\" label="posts\窓の外の数学\オイラーの公式\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="posts\窓の外の数学\オイラーの公式\" label="posts\窓の外の数学\オイラーの公式\" />
                         
                     
                 
@@ -4953,7 +4953,7 @@ $$\rightarrow a^n \times a^m = a^{n+m}$$
                             
                             
                             
-                                <category scheme="https://example.com/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="オイラーの公式" label="オイラーの公式" />
+                                <category scheme="https://komeijiren.github.io/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="オイラーの公式" label="オイラーの公式" />
                             
                         
                     
@@ -4963,8 +4963,8 @@ $$\rightarrow a^n \times a^m = a^{n+m}$$
     
         <entry>
             <title type="text">愛ある人</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/4/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/4/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/4/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/4/</id>
             <updated>2023-08-16T09:19:43&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -4999,7 +4999,7 @@ $$\rightarrow a^n \times a^m = a^{n+m}$$
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/" term="posts\300万円の命\1章\" label="posts\300万円の命\1章\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/" term="posts\300万円の命\1章\" label="posts\300万円の命\1章\" />
                         
                     
                 
@@ -5014,8 +5014,8 @@ $$\rightarrow a^n \times a^m = a^{n+m}$$
     
         <entry>
             <title type="text">一人ぼっちの休日</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/4/" />
-            <id>https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/4/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/4/" />
+            <id>https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/4/</id>
             <updated>2023-08-25T10:18:27&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -5122,7 +5122,7 @@ $$\rightarrow a^n \times a^m = a^{n+m}$$
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/" term="posts\あの七夕の日を忘れない\1章\" label="posts\あの七夕の日を忘れない\1章\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/" term="posts\あの七夕の日を忘れない\1章\" label="posts\あの七夕の日を忘れない\1章\" />
                         
                     
                 
@@ -5137,8 +5137,8 @@ $$\rightarrow a^n \times a^m = a^{n+m}$$
     
         <entry>
             <title type="text">時の流れは絶えずして</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/5/" />
-            <id>https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/5/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/5/" />
+            <id>https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/5/</id>
             <updated>2023-08-25T10:26:21&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -5173,7 +5173,7 @@ $$\rightarrow a^n \times a^m = a^{n+m}$$
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/" term="posts\あの七夕の日を忘れない\2章\" label="posts\あの七夕の日を忘れない\2章\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/2%E7%AB%A0/" term="posts\あの七夕の日を忘れない\2章\" label="posts\あの七夕の日を忘れない\2章\" />
                         
                     
                 
@@ -5188,8 +5188,8 @@ $$\rightarrow a^n \times a^m = a^{n+m}$$
     
         <entry>
             <title type="text">正解を求めて</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/5/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/5/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/5/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/5/</id>
             <updated>2023-08-16T09:49:14&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -5305,7 +5305,7 @@ $$\rightarrow a^n \times a^m = a^{n+m}$$
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/" term="posts\300万円の命\4章\" label="posts\300万円の命\4章\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/" term="posts\300万円の命\4章\" label="posts\300万円の命\4章\" />
                         
                     
                 
@@ -5320,8 +5320,8 @@ $$\rightarrow a^n \times a^m = a^{n+m}$$
     
         <entry>
             <title type="text">崩れ落ちた日常の果てに</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/5/" />
-            <id>https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/5/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/5/" />
+            <id>https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/5/</id>
             <updated>2023-08-25T10:30:06&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -5398,7 +5398,7 @@ $$\rightarrow a^n \times a^m = a^{n+m}$$
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/" term="posts\あの七夕の日を忘れない\3章\" label="posts\あの七夕の日を忘れない\3章\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/" term="posts\あの七夕の日を忘れない\3章\" label="posts\あの七夕の日を忘れない\3章\" />
                         
                     
                 
@@ -5413,8 +5413,8 @@ $$\rightarrow a^n \times a^m = a^{n+m}$$
     
         <entry>
             <title type="text">涙に値する過去</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/5/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/5/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/5/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/5/</id>
             <updated>2023-08-16T09:43:44&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -5522,7 +5522,7 @@ $$\rightarrow a^n \times a^m = a^{n+m}$$
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/" term="posts\300万円の命\3章\" label="posts\300万円の命\3章\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/" term="posts\300万円の命\3章\" label="posts\300万円の命\3章\" />
                         
                     
                 
@@ -5537,8 +5537,8 @@ $$\rightarrow a^n \times a^m = a^{n+m}$$
     
         <entry>
             <title type="text">睨まれる非日常</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/5/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/5/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/5/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/5/</id>
             <updated>2023-08-16T09:34:21&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -5656,7 +5656,7 @@ $$\rightarrow a^n \times a^m = a^{n+m}$$
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/" term="posts\300万円の命\2章\" label="posts\300万円の命\2章\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/" term="posts\300万円の命\2章\" label="posts\300万円の命\2章\" />
                         
                     
                 
@@ -5671,8 +5671,8 @@ $$\rightarrow a^n \times a^m = a^{n+m}$$
     
         <entry>
             <title type="text">答えてくれる三角比</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/4/" />
-            <id>https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/4/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/4/" />
+            <id>https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/4/</id>
             <updated>2023-08-15T01:45:01&#43;09:00</updated>
             <published>2021-01-04T00:04:33&#43;09:00</published>
             <author>
@@ -5786,7 +5786,7 @@ $$相似\rightarrow　辺の比が等しい$$&lt;/p&gt;
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="posts\窓の外の数学\オイラーの公式\" label="posts\窓の外の数学\オイラーの公式\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="posts\窓の外の数学\オイラーの公式\" label="posts\窓の外の数学\オイラーの公式\" />
                         
                     
                 
@@ -5799,7 +5799,7 @@ $$相似\rightarrow　辺の比が等しい$$&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://example.com/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="オイラーの公式" label="オイラーの公式" />
+                                <category scheme="https://komeijiren.github.io/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="オイラーの公式" label="オイラーの公式" />
                             
                         
                     
@@ -5809,8 +5809,8 @@ $$相似\rightarrow　辺の比が等しい$$&lt;/p&gt;
     
         <entry>
             <title type="text">会えない人</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/5/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/5/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/5/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/5/</id>
             <updated>2023-08-16T09:20:41&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -5882,7 +5882,7 @@ $$相似\rightarrow　辺の比が等しい$$&lt;/p&gt;
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/" term="posts\300万円の命\1章\" label="posts\300万円の命\1章\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/" term="posts\300万円の命\1章\" label="posts\300万円の命\1章\" />
                         
                     
                 
@@ -5897,8 +5897,8 @@ $$相似\rightarrow　辺の比が等しい$$&lt;/p&gt;
     
         <entry>
             <title type="text">休日の塾</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/5/" />
-            <id>https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/5/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/5/" />
+            <id>https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/5/</id>
             <updated>2023-08-25T10:19:04&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -5953,7 +5953,7 @@ $$相似\rightarrow　辺の比が等しい$$&lt;/p&gt;
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/" term="posts\あの七夕の日を忘れない\1章\" label="posts\あの七夕の日を忘れない\1章\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/" term="posts\あの七夕の日を忘れない\1章\" label="posts\あの七夕の日を忘れない\1章\" />
                         
                     
                 
@@ -5968,8 +5968,8 @@ $$相似\rightarrow　辺の比が等しい$$&lt;/p&gt;
     
         <entry>
             <title type="text">救う勇気</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/6/" />
-            <id>https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/6/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/6/" />
+            <id>https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/6/</id>
             <updated>2023-08-25T10:30:35&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -6036,7 +6036,7 @@ $$相似\rightarrow　辺の比が等しい$$&lt;/p&gt;
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/" term="posts\あの七夕の日を忘れない\3章\" label="posts\あの七夕の日を忘れない\3章\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/3%E7%AB%A0/" term="posts\あの七夕の日を忘れない\3章\" label="posts\あの七夕の日を忘れない\3章\" />
                         
                     
                 
@@ -6051,8 +6051,8 @@ $$相似\rightarrow　辺の比が等しい$$&lt;/p&gt;
     
         <entry>
             <title type="text">見て見ぬふりの過去</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/6/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/6/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/6/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/6/</id>
             <updated>2023-08-16T09:44:30&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -6154,7 +6154,7 @@ $$相似\rightarrow　辺の比が等しい$$&lt;/p&gt;
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/" term="posts\300万円の命\3章\" label="posts\300万円の命\3章\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/3%E7%AB%A0/" term="posts\300万円の命\3章\" label="posts\300万円の命\3章\" />
                         
                     
                 
@@ -6169,8 +6169,8 @@ $$相似\rightarrow　辺の比が等しい$$&lt;/p&gt;
     
         <entry>
             <title type="text">幸せを求めて</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/6/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/6/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/6/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/6/</id>
             <updated>2023-08-16T09:49:57&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -6295,7 +6295,7 @@ $$相似\rightarrow　辺の比が等しい$$&lt;/p&gt;
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/" term="posts\300万円の命\4章\" label="posts\300万円の命\4章\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/4%E7%AB%A0/" term="posts\300万円の命\4章\" label="posts\300万円の命\4章\" />
                         
                     
                 
@@ -6310,8 +6310,8 @@ $$相似\rightarrow　辺の比が等しい$$&lt;/p&gt;
     
         <entry>
             <title type="text">人の話を聞く非日常</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/6/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/6/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/6/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/6/</id>
             <updated>2023-08-16T09:35:17&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -6425,7 +6425,7 @@ $$相似\rightarrow　辺の比が等しい$$&lt;/p&gt;
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/" term="posts\300万円の命\2章\" label="posts\300万円の命\2章\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/2%E7%AB%A0/" term="posts\300万円の命\2章\" label="posts\300万円の命\2章\" />
                         
                     
                 
@@ -6440,8 +6440,8 @@ $$相似\rightarrow　辺の比が等しい$$&lt;/p&gt;
     
         <entry>
             <title type="text">回って回って三角関数</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/5/" />
-            <id>https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/5/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/5/" />
+            <id>https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/5/</id>
             <updated>2023-08-15T01:45:01&#43;09:00</updated>
             <published>2021-01-11T23:35:10&#43;09:00</published>
             <author>
@@ -6677,7 +6677,7 @@ $sin(x)$が成す曲線のことをサインカーブという&lt;/p&gt;
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="posts\窓の外の数学\オイラーの公式\" label="posts\窓の外の数学\オイラーの公式\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="posts\窓の外の数学\オイラーの公式\" label="posts\窓の外の数学\オイラーの公式\" />
                         
                     
                 
@@ -6690,7 +6690,7 @@ $sin(x)$が成す曲線のことをサインカーブという&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://example.com/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="オイラーの公式" label="オイラーの公式" />
+                                <category scheme="https://komeijiren.github.io/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="オイラーの公式" label="オイラーの公式" />
                             
                         
                     
@@ -6700,8 +6700,8 @@ $sin(x)$が成す曲線のことをサインカーブという&lt;/p&gt;
     
         <entry>
             <title type="text">懐かしい入院生活に戻って</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/6/" />
-            <id>https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/6/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/6/" />
+            <id>https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/6/</id>
             <updated>2023-08-25T10:19:58&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -7168,7 +7168,7 @@ $sin(x)$が成す曲線のことをサインカーブという&lt;/p&gt;
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/" term="posts\あの七夕の日を忘れない\1章\" label="posts\あの七夕の日を忘れない\1章\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E3%81%82%E3%81%AE%E4%B8%83%E5%A4%95%E3%81%AE%E6%97%A5%E3%82%92%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84/1%E7%AB%A0/" term="posts\あの七夕の日を忘れない\1章\" label="posts\あの七夕の日を忘れない\1章\" />
                         
                     
                 
@@ -7183,8 +7183,8 @@ $sin(x)$が成す曲線のことをサインカーブという&lt;/p&gt;
     
         <entry>
             <title type="text">救う人</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/6/" />
-            <id>https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/6/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/6/" />
+            <id>https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/6/</id>
             <updated>2023-08-16T09:21:46&#43;09:00</updated>
             <published>2023-08-16T09:11:59&#43;09:00</published>
             <author>
@@ -7288,7 +7288,7 @@ $sin(x)$が成す曲線のことをサインカーブという&lt;/p&gt;
                     
                     
                         
-                            <category scheme="https://example.com/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/" term="posts\300万円の命\1章\" label="posts\300万円の命\1章\" />
+                            <category scheme="https://komeijiren.github.io/posts/300%E4%B8%87%E5%86%86%E3%81%AE%E5%91%BD/1%E7%AB%A0/" term="posts\300万円の命\1章\" label="posts\300万円の命\1章\" />
                         
                     
                 
@@ -7303,8 +7303,8 @@ $sin(x)$が成す曲線のことをサインカーブという&lt;/p&gt;
     
         <entry>
             <title type="text">空虚なる数</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/6/" />
-            <id>https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/6/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/6/" />
+            <id>https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/6/</id>
             <updated>2023-08-15T01:45:01&#43;09:00</updated>
             <published>2021-01-21T21:04:34&#43;09:00</published>
             <author>
@@ -7421,7 +7421,7 @@ $$(a+bi)\times (c+di)=(ac-bd)+(ad+bc)i$$&lt;/p&gt;
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="posts\窓の外の数学\オイラーの公式\" label="posts\窓の外の数学\オイラーの公式\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="posts\窓の外の数学\オイラーの公式\" label="posts\窓の外の数学\オイラーの公式\" />
                         
                     
                 
@@ -7434,7 +7434,7 @@ $$(a+bi)\times (c+di)=(ac-bd)+(ad+bc)i$$&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://example.com/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="オイラーの公式" label="オイラーの公式" />
+                                <category scheme="https://komeijiren.github.io/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="オイラーの公式" label="オイラーの公式" />
                             
                         
                     
@@ -7444,8 +7444,8 @@ $$(a+bi)\times (c+di)=(ac-bd)+(ad+bc)i$$&lt;/p&gt;
     
         <entry>
             <title type="text">触れられないけど見える世界</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/7/" />
-            <id>https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/7/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/7/" />
+            <id>https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/7/</id>
             <updated>2023-08-13T22:31:38&#43;09:00</updated>
             <published>2021-01-28T23:55:12&#43;09:00</published>
             <author>
@@ -7607,7 +7607,7 @@ $$ab(((cos(\alpha)cos(\beta)-sin(\alpha)sin(\beta))+i(sin(\alpha)cos(\beta)+cos(
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="posts\窓の外の数学\オイラーの公式\" label="posts\窓の外の数学\オイラーの公式\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="posts\窓の外の数学\オイラーの公式\" label="posts\窓の外の数学\オイラーの公式\" />
                         
                     
                 
@@ -7620,7 +7620,7 @@ $$ab(((cos(\alpha)cos(\beta)-sin(\alpha)sin(\beta))+i(sin(\alpha)cos(\beta)+cos(
                             
                             
                             
-                                <category scheme="https://example.com/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="オイラーの公式" label="オイラーの公式" />
+                                <category scheme="https://komeijiren.github.io/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="オイラーの公式" label="オイラーの公式" />
                             
                         
                     
@@ -7630,8 +7630,8 @@ $$ab(((cos(\alpha)cos(\beta)-sin(\alpha)sin(\beta))+i(sin(\alpha)cos(\beta)+cos(
     
         <entry>
             <title type="text">答え合わせ</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/8/" />
-            <id>https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/8/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/8/" />
+            <id>https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/8/</id>
             <updated>2023-08-15T01:45:01&#43;09:00</updated>
             <published>2021-02-05T22:32:44&#43;09:00</published>
             <author>
@@ -7702,7 +7702,7 @@ $$cos((90-\alpha)-\beta)=sin(\alpha)cos(\beta)+cos(\alpha)sin(\beta)$$&lt;/p&gt;
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="posts\窓の外の数学\オイラーの公式\" label="posts\窓の外の数学\オイラーの公式\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="posts\窓の外の数学\オイラーの公式\" label="posts\窓の外の数学\オイラーの公式\" />
                         
                     
                 
@@ -7715,7 +7715,7 @@ $$cos((90-\alpha)-\beta)=sin(\alpha)cos(\beta)+cos(\alpha)sin(\beta)$$&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://example.com/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="オイラーの公式" label="オイラーの公式" />
+                                <category scheme="https://komeijiren.github.io/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="オイラーの公式" label="オイラーの公式" />
                             
                         
                     
@@ -7725,8 +7725,8 @@ $$cos((90-\alpha)-\beta)=sin(\alpha)cos(\beta)+cos(\alpha)sin(\beta)$$&lt;/p&gt;
     
         <entry>
             <title type="text">最小距離のお隣さん</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/9/" />
-            <id>https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/9/</id>
+            <link rel="alternate" type="text/html" href="https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/9/" />
+            <id>https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/9/</id>
             <updated>2023-08-15T01:45:01&#43;09:00</updated>
             <published>2021-02-26T23:36:45&#43;09:00</published>
             <author>
@@ -7845,7 +7845,7 @@ $$=\lim_{h \to 0}f(x)=\frac{g(a+h)-g(a)}{h}x-g(a) $$
                     
                     
                         
-                            <category scheme="https://example.com/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="posts\窓の外の数学\オイラーの公式\" label="posts\窓の外の数学\オイラーの公式\" />
+                            <category scheme="https://komeijiren.github.io/posts/%E7%AA%93%E3%81%AE%E5%A4%96%E3%81%AE%E6%95%B0%E5%AD%A6/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="posts\窓の外の数学\オイラーの公式\" label="posts\窓の外の数学\オイラーの公式\" />
                         
                     
                 
@@ -7858,7 +7858,7 @@ $$=\lim_{h \to 0}f(x)=\frac{g(a+h)-g(a)}{h}x-g(a) $$
                             
                             
                             
-                                <category scheme="https://example.com/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="オイラーの公式" label="オイラーの公式" />
+                                <category scheme="https://komeijiren.github.io/tags/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%E5%85%AC%E5%BC%8F/" term="オイラーの公式" label="オイラーの公式" />
                             
                         
                     
