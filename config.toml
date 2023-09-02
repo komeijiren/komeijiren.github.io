@@ -5,7 +5,7 @@ baseURL = "https://komeijiren.github.io/"
 title = "古明地蓮の物置き"
 languageCode = "ja"
 hasCJKLanguage = true
-googleAnalytics = "UA-162479993-3"
+googleAnalytics = "G-9J4YPM8VTG"
 disqusShortname = "chuang-nowai-noshu-xue"
 
 # Copyright information (Markdown supported)
@@ -689,7 +689,7 @@ uglyURLs = false
     trackingCodeType = "gtag"
     # Note: gtag or analytics
 
-    trackingID = "UA-162479993-3"
+    trackingID = "G-9J4YPM8VTG"
 
 
     ######################################
