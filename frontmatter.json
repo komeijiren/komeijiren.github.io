@@ -1,0 +1,115 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "chapter",
+          "name": "chapter",
+          "type": "string"
+        },
+        {
+          "title": "weight",
+          "name": "weight",
+          "type": "number"
+        },
+        {
+          "title": "date",
+          "name": "date",
+          "type": "datetime"
+        },
+        {
+          "title": "draft",
+          "name": "draft",
+          "type": "boolean"
+        },
+        {
+          "title": "description",
+          "name": "description",
+          "type": "string"
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.preview.host": "http://localhost:1313",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "about",
+      "path": "[[workspace]]/content/about"
+    },
+    {
+      "title": "300万円の命 プロローグ",
+      "path": "[[workspace]]/content/posts/300万円の命/0章 プロローグ"
+    },
+    {
+      "title": "300万円の命 1章",
+      "path": "[[workspace]]/content/posts/300万円の命/1章"
+    },
+    {
+      "title": "300万円の命 2章",
+      "path": "[[workspace]]/content/posts/300万円の命/2章"
+    },
+    {
+      "title": "300万円の命 3章",
+      "path": "[[workspace]]/content/posts/300万円の命/3章"
+    },
+    {
+      "title": "300万円の命 4章",
+      "path": "[[workspace]]/content/posts/300万円の命/4章"
+    },
+    {
+      "title": "300万円の命 エピローグ",
+      "path": "[[workspace]]/content/posts/300万円の命/5章 エピローグ"
+    },
+    {
+      "title": "七夕 0章 プロローグ",
+      "path": "[[workspace]]/content/posts/あの七夕の日を忘れない/0章 プロローグ"
+    },
+    {
+      "title": "七夕 1章",
+      "path": "[[workspace]]/content/posts/あの七夕の日を忘れない/1章"
+    },
+    {
+      "title": "七夕 2章",
+      "path": "[[workspace]]/content/posts/あの七夕の日を忘れない/2章"
+    },
+    {
+      "title": "七夕 3章",
+      "path": "[[workspace]]/content/posts/あの七夕の日を忘れない/3章"
+    },
+    {
+      "title": "七夕 4章",
+      "path": "[[workspace]]/content/posts/あの七夕の日を忘れない/4章"
+    },
+    {
+      "title": "メサイア プロローグ",
+      "path": "[[workspace]]/content/posts/死と書いて救済と読む/0章 プロローグ"
+    },
+    {
+      "title": "メサイア 1章",
+      "path": "[[workspace]]/content/posts/死と書いて救済と読む/1章"
+    },
+    {
+      "title": "メサイア 2章",
+      "path": "[[workspace]]/content/posts/死と書いて救済と読む/2章"
+    },
+    {
+      "title": "窓の外の数学 0章 プロローグ",
+      "path": "[[workspace]]/content/posts/窓の外の数学/0章 プロローグ"
+    },
+    {
+      "title": "窓の外の数学 オイラーの公式",
+      "path": "[[workspace]]/content/posts/窓の外の数学/オイラーの公式"
+    }
+  ]
+}
