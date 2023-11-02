@@ -453,7 +453,7 @@ uglyURLs = false
     i18nYear = false
     # Translate the month? (valid for title)
     i18nMonth = false
-    chapter = ["0章 プロローグ", "1章","2章" ,"3章", "4章", "5章", "6章", "エピローグ"]
+    chapter = ["0章 プロローグ", "1章","2章" ,"3章", "4章", "5章", "6章", "エピローグ", "キャラ紹介"]
 
 
     ######################################
