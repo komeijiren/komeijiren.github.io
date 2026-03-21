@@ -1,0 +1,35 @@
+{{ define "main" }}
+<main class="main list" id="main">
+    <div class="main-inner">
+        <div class="content list-group">
+            <h1 class="list-title">{{ .Title }}</h1>
+            {{ with .Description }}
+                <p class="novel-description">{{ . }}</p>
+            {{ end }}
+
+            {{ if .Sections }}
+                {{/* 章構造がある場合（300万円の命など） */}}
+                {{ range .Sections.ByWeight }}
+                    <h2 class="list-year">{{ .Title }}</h2>
+                    <ul class="list-part">
+                        {{ range .Pages.ByWeight }}
+                        <li class="list-item">
+                            <a href="{{ .RelPermalink }}" class="list-item-title">{{ .Title }}</a>
+                        </li>
+                        {{ end }}
+                    </ul>
+                {{ end }}
+            {{ else }}
+                {{/* 章なしの場合（短編集など） */}}
+                <ul class="list-part">
+                    {{ range .Pages.ByWeight }}
+                    <li class="list-item">
+                        <a href="{{ .RelPermalink }}" class="list-item-title">{{ .Title }}</a>
+                    </li>
+                    {{ end }}
+                </ul>
+            {{ end }}
+        </div>
+    </div>
+</main>
+{{ end }}

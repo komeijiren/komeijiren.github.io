@@ -205,7 +205,7 @@ uglyURLs = false
     #    pre = "internal"
     #    post = "archive"
     [[menu.main]]
-        url = "/categories/"
+        url = "/posts/"
         name = "作品"
         weight = 3
         pre = "internal"

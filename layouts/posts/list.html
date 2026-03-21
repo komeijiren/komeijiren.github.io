@@ -1,0 +1,19 @@
+{{ define "main" }}
+<main class="main list" id="main">
+    <div class="main-inner">
+        <div class="content list-group">
+            <h1 class="list-title">{{ .Title }}</h1>
+            {{ range .Sections }}
+                <div class="novel-entry">
+                    <h2 class="novel-title">
+                        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                    </h2>
+                    {{ with .Description }}
+                        <p class="novel-description">{{ . }}</p>
+                    {{ end }}
+                </div>
+            {{ end }}
+        </div>
+    </div>
+</main>
+{{ end }}
