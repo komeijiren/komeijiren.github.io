@@ -1,8 +1,8 @@
 ---
-title: "4章"
+title: "見せたくなかったもの"
 date: 2026-03-25T14:01:52+09:00
-draft: true
+draft: false
 chapter: 
-weight: 
+weight: 5
 ---
 
